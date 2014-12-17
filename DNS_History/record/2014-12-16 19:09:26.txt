@@ -511,3 +511,167 @@ hao123.com. 21346 IN NS ns4.baidu.com.
 hao123.com. 21346 IN NS ns1.baidu.com.
 ;AUTHORITY
 ;ADDITIONAL
+
+id 63786
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+yandex.ru. IN ANY
+;ANSWER
+yandex.ru. 3599 IN SOA ns1.yandex.ru. sysadmin.yandex-team.ru. 2014121621 600 300 2592000 900
+yandex.ru. 3599 IN TXT "mailru-verification: 530c425b1458283e"
+yandex.ru. 3599 IN TXT "v=spf1 redirect=_spf.yandex.ru"
+yandex.ru. 3599 IN MX 10 mx.yandex.ru.
+yandex.ru. 21599 IN NS ns2.yandex.ru.
+yandex.ru. 21599 IN NS ns1.yandex.ru.
+yandex.ru. 299 IN A 93.158.134.11
+yandex.ru. 299 IN A 213.180.193.11
+yandex.ru. 299 IN A 213.180.204.11
+;AUTHORITY
+;ADDITIONAL
+
+id 34113
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+vk.com. IN ANY
+;ANSWER
+vk.com. 646 IN AAAA 2a00:bdc0:3:103:1:0:403:906
+vk.com. 646 IN AAAA 2a00:bdc0:3:103:1:0:403:907
+vk.com. 646 IN AAAA 2a00:bdc0:3:103:1:0:403:908
+vk.com. 646 IN A 87.240.143.241
+vk.com. 646 IN A 87.240.131.117
+vk.com. 646 IN A 87.240.131.118
+vk.com. 646 IN SOA ns1.vkontakte.ru. ncc.vkontakte.ru. 2014121501 3600 900 604800 900
+vk.com. 646 IN NS ns1.vkontakte.ru.
+vk.com. 646 IN NS ns2.vkontakte.ru.
+vk.com. 646 IN NS ns4.vkontakte.ru.
+vk.com. 646 IN MX 10 mail.vk.com.
+vk.com. 646 IN TXT "v=spf1 ip4:93.186.224.0/20 ip4:87.240.128.0/18 ip4:95.142.192.0/21 mx include:aspmx.googlemail.com ~all"
+;AUTHORITY
+;ADDITIONAL
+
+id 59362
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+google.de. IN ANY
+;ANSWER
+google.de. 299 IN A 205.213.108.155
+google.de. 299 IN A 205.213.108.177
+google.de. 299 IN A 205.213.108.172
+google.de. 299 IN A 205.213.108.170
+google.de. 299 IN A 205.213.108.185
+google.de. 299 IN A 205.213.108.147
+google.de. 299 IN A 205.213.108.187
+google.de. 299 IN A 205.213.108.162
+google.de. 299 IN A 205.213.108.157
+google.de. 299 IN A 205.213.108.151
+google.de. 299 IN A 205.213.108.143
+google.de. 299 IN A 205.213.108.166
+google.de. 299 IN A 205.213.108.181
+google.de. 299 IN A 205.213.108.173
+google.de. 299 IN A 205.213.108.158
+google.de. 599 IN MX 20 alt1.aspmx.l.google.com.
+google.de. 599 IN MX 30 alt2.aspmx.l.google.com.
+google.de. 599 IN MX 10 aspmx.l.google.com.
+google.de. 599 IN MX 40 alt3.aspmx.l.google.com.
+google.de. 599 IN MX 50 alt4.aspmx.l.google.com.
+google.de. 21599 IN NS ns1.google.com.
+google.de. 21599 IN NS ns2.google.com.
+google.de. 21599 IN NS ns3.google.com.
+google.de. 21599 IN NS ns4.google.com.
+google.de. 299 IN TXT "v=spf1 -all"
+google.de. 59 IN SOA ns1.google.com. dns-admin.google.com. 1576417 900 900 1800 60
+;AUTHORITY
+;ADDITIONAL
+
+id 58913
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+bing.com. IN ANY
+;ANSWER
+bing.com. 2684 IN A 204.79.197.200
+;AUTHORITY
+;ADDITIONAL
+
+id 28126
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+google.co.jp. IN ANY
+;ANSWER
+google.co.jp. 299 IN A 205.213.108.155
+google.co.jp. 299 IN A 205.213.108.177
+google.co.jp. 299 IN A 205.213.108.172
+google.co.jp. 299 IN A 205.213.108.170
+google.co.jp. 299 IN A 205.213.108.185
+google.co.jp. 299 IN A 205.213.108.147
+google.co.jp. 299 IN A 205.213.108.187
+google.co.jp. 299 IN A 205.213.108.162
+google.co.jp. 299 IN A 205.213.108.157
+google.co.jp. 299 IN A 205.213.108.151
+google.co.jp. 299 IN A 205.213.108.143
+google.co.jp. 299 IN A 205.213.108.166
+google.co.jp. 299 IN A 205.213.108.181
+google.co.jp. 299 IN A 205.213.108.173
+google.co.jp. 299 IN A 205.213.108.158
+google.co.jp. 59 IN SOA ns2.google.com. dns-admin.google.com. 1576417 900 900 1800 60
+google.co.jp. 21599 IN NS ns2.google.com.
+google.co.jp. 21599 IN NS ns3.google.com.
+google.co.jp. 21599 IN NS ns4.google.com.
+google.co.jp. 21599 IN NS ns1.google.com.
+google.co.jp. 599 IN MX 10 aspmx.l.google.com.
+google.co.jp. 599 IN MX 50 alt4.aspmx.l.google.com.
+google.co.jp. 599 IN MX 20 alt1.aspmx.l.google.com.
+google.co.jp. 599 IN MX 30 alt2.aspmx.l.google.com.
+google.co.jp. 599 IN MX 40 alt3.aspmx.l.google.com.
+google.co.jp. 299 IN TXT "v=spf1 -all"
+;AUTHORITY
+;ADDITIONAL
+
+id 7349
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+adcash.com. IN ANY
+;ANSWER
+adcash.com. 19127 IN SOA ns1.p28.dynect.net. dns.adcash.com. 2014120800 3600 600 604800 3600
+adcash.com. 19127 IN NS ns3.p28.dynect.net.
+adcash.com. 19127 IN NS ns2.p28.dynect.net.
+adcash.com. 19127 IN NS ns4.p28.dynect.net.
+adcash.com. 19127 IN NS ns1.p28.dynect.net.
+adcash.com. 19127 IN A 72.52.178.206
+adcash.com. 19127 IN A 67.227.226.194
+adcash.com. 19127 IN A 67.227.226.195
+adcash.com. 19127 IN A 67.227.226.196
+adcash.com. 19127 IN A 72.52.178.205
+adcash.com. 1127 IN MX 10 aspmx.l.google.com.
+adcash.com. 1127 IN MX 20 alt2.aspmx.l.google.com.
+adcash.com. 1127 IN MX 20 alt1.aspmx.l.google.com.
+adcash.com. 1127 IN MX 30 aspmx3.googlemail.com.
+adcash.com. 1127 IN MX 30 aspmx2.googlemail.com.
+adcash.com. 19127 IN TXT "google-site-verification=rMMnthTQrnm_wGdvKIIXQECG_GCPlWkFEq6odHLjkZo"
+adcash.com. 19127 IN TXT "v=spf1 a mx ptr ip4:207.126.144.0/20 ip4:64.18.0.0/20 ip4:74.125.148.0/22 ip4:67.227.236.0/24 ip4:67.227.237.0/24 ip4:72.52.179.0/24 include:aspmx.googlemail.com ~all"
+;AUTHORITY
+;ADDITIONAL
+
