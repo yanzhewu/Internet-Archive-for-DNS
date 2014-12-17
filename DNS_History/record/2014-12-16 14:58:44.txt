@@ -1,0 +1,51 @@
+id 56468
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+google.com. IN ANY
+;ANSWER
+google.com. 124 IN A 64.15.120.21
+google.com. 124 IN A 64.15.120.20
+google.com. 124 IN A 64.15.120.24
+google.com. 124 IN A 64.15.120.26
+google.com. 124 IN A 64.15.120.25
+google.com. 124 IN A 64.15.120.22
+google.com. 124 IN A 64.15.120.27
+google.com. 124 IN A 64.15.120.23
+google.com. 424 IN MX 10 aspmx.l.google.com.
+google.com. 424 IN MX 20 alt1.aspmx.l.google.com.
+google.com. 424 IN MX 30 alt2.aspmx.l.google.com.
+google.com. 424 IN MX 40 alt3.aspmx.l.google.com.
+google.com. 424 IN MX 50 alt4.aspmx.l.google.com.
+google.com. 3424 IN TXT "v=spf1 include:_spf.google.com ip4:216.73.93.70/31 ip4:216.73.93.72/31 ~all"
+google.com. 21424 IN SOA ns1.google.com. dns-admin.google.com. 2014112500 7200 1800 1209600 300
+google.com. 21424 IN TYPE257 \# 19 0005697373756573796d616e7465632e 636f6d
+google.com. 21424 IN NS ns3.google.com.
+google.com. 21424 IN NS ns2.google.com.
+google.com. 21424 IN NS ns1.google.com.
+google.com. 21424 IN NS ns4.google.com.
+;AUTHORITY
+;ADDITIONAL
+
+id 59061
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+facebook.com. IN ANY
+;ANSWER
+facebook.com. 21485 IN NS a.ns.facebook.com.
+facebook.com. 21485 IN NS b.ns.facebook.com.
+facebook.com. 21485 IN TXT "v=spf1 redirect=_spf.facebook.com"
+facebook.com. 185 IN MX 10 msgin.vvv.facebook.com.
+facebook.com. 5 IN SOA a.ns.facebook.com. dns.facebook.com. 1418763106 7200 1800 604800 120
+facebook.com. 785 IN A 173.252.120.6
+facebook.com. 785 IN AAAA 2a03:2880:2130:cf05:face:b00c:0:1
+;AUTHORITY
+;ADDITIONAL
+

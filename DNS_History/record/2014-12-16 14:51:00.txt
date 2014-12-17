@@ -1,0 +1,18 @@
+id 14554
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+facebook.com. IN ANY
+;ANSWER
+facebook.com. 21599 IN NS a.ns.facebook.com.
+facebook.com. 21599 IN NS b.ns.facebook.com.
+facebook.com. 21599 IN TXT "v=spf1 redirect=_spf.facebook.com"
+facebook.com. 299 IN MX 10 msgin.vvv.facebook.com.
+facebook.com. 119 IN SOA a.ns.facebook.com. dns.facebook.com. 1418762806 7200 1800 604800 120
+facebook.com. 899 IN A 173.252.120.6
+facebook.com. 899 IN AAAA 2a03:2880:2130:cf05:face:b00c:0:1
+;AUTHORITY
+;ADDITIONAL

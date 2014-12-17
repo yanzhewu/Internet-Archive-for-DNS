@@ -1,0 +1,439 @@
+id 18123
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+google.com. IN ANY
+;ANSWER
+google.com. 299 IN A 64.15.120.52
+google.com. 299 IN A 64.15.120.59
+google.com. 299 IN A 64.15.120.54
+google.com. 299 IN A 64.15.120.53
+google.com. 299 IN A 64.15.120.58
+google.com. 299 IN A 64.15.120.56
+google.com. 299 IN A 64.15.120.57
+google.com. 299 IN A 64.15.120.55
+google.com. 21599 IN NS ns4.google.com.
+google.com. 21599 IN NS ns3.google.com.
+google.com. 21599 IN NS ns1.google.com.
+google.com. 21599 IN NS ns2.google.com.
+google.com. 599 IN MX 30 alt2.aspmx.l.google.com.
+google.com. 599 IN MX 10 aspmx.l.google.com.
+google.com. 599 IN MX 40 alt3.aspmx.l.google.com.
+google.com. 599 IN MX 50 alt4.aspmx.l.google.com.
+google.com. 599 IN MX 20 alt1.aspmx.l.google.com.
+google.com. 21599 IN TYPE257 \# 19 0005697373756573796d616e7465632e 636f6d
+google.com. 3599 IN TXT "v=spf1 include:_spf.google.com ip4:216.73.93.70/31 ip4:216.73.93.72/31 ~all"
+google.com. 21599 IN SOA ns1.google.com. dns-admin.google.com. 2014112500 7200 1800 1209600 300
+;AUTHORITY
+;ADDITIONAL
+
+id 59086
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+facebook.com. IN ANY
+;ANSWER
+facebook.com. 21484 IN NS a.ns.facebook.com.
+facebook.com. 21484 IN NS b.ns.facebook.com.
+facebook.com. 21484 IN TXT "v=spf1 redirect=_spf.facebook.com"
+facebook.com. 184 IN MX 10 msgin.vvv.facebook.com.
+facebook.com. 4 IN SOA a.ns.facebook.com. dns.facebook.com. 1418767006 7200 1800 604800 120
+facebook.com. 784 IN A 173.252.120.6
+facebook.com. 784 IN AAAA 2a03:2880:2130:cf05:face:b00c:0:1
+;AUTHORITY
+;ADDITIONAL
+
+id 56902
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+youtube.com. IN ANY
+;ANSWER
+youtube.com. 299 IN A 64.15.120.24
+youtube.com. 299 IN A 64.15.120.20
+youtube.com. 299 IN A 64.15.120.25
+youtube.com. 299 IN A 64.15.120.27
+youtube.com. 299 IN A 64.15.120.22
+youtube.com. 299 IN A 64.15.120.21
+youtube.com. 299 IN A 64.15.120.26
+youtube.com. 299 IN A 64.15.120.23
+youtube.com. 21599 IN NS ns4.google.com.
+youtube.com. 21599 IN NS ns2.google.com.
+youtube.com. 21599 IN NS ns3.google.com.
+youtube.com. 21599 IN NS ns1.google.com.
+youtube.com. 599 IN MX 10 aspmx.l.google.com.
+youtube.com. 599 IN MX 20 alt1.aspmx.l.google.com.
+youtube.com. 599 IN MX 50 alt4.aspmx.l.google.com.
+youtube.com. 599 IN MX 40 alt3.aspmx.l.google.com.
+youtube.com. 599 IN MX 30 alt2.aspmx.l.google.com.
+youtube.com. 3599 IN SOA ns1.google.com. dns-admin.google.com. 2014101500 10800 3600 604800 600
+youtube.com. 3599 IN TXT "v=spf1 include:google.com mx -all"
+;AUTHORITY
+;ADDITIONAL
+
+id 25192
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+yahoo.com. IN ANY
+;ANSWER
+yahoo.com. 873 IN SOA ns1.yahoo.com. hostmaster.yahoo-inc.com. 2014121605 3600 300 1814400 600
+yahoo.com. 873 IN A 98.138.253.109
+yahoo.com. 873 IN A 98.139.183.24
+yahoo.com. 873 IN A 206.190.36.45
+yahoo.com. 873 IN MX 1 mta5.am0.yahoodns.net.
+yahoo.com. 873 IN MX 1 mta6.am0.yahoodns.net.
+yahoo.com. 873 IN MX 1 mta7.am0.yahoodns.net.
+yahoo.com. 20673 IN NS ns1.yahoo.com.
+yahoo.com. 20673 IN NS ns2.yahoo.com.
+yahoo.com. 20673 IN NS ns5.yahoo.com.
+yahoo.com. 20673 IN NS ns3.yahoo.com.
+yahoo.com. 20673 IN NS ns6.yahoo.com.
+yahoo.com. 20673 IN NS ns4.yahoo.com.
+yahoo.com. 873 IN TXT "v=spf1 redirect=_spf.mail.yahoo.com"
+;AUTHORITY
+;ADDITIONAL
+
+id 12993
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+baidu.com. IN ANY
+;ANSWER
+baidu.com. 7199 IN SOA dns.baidu.com. sa.baidu.com. 2012122916 300 300 2592000 7200
+baidu.com. 7199 IN TXT "v=spf1 include:spf1.baidu.com include:spf2.baidu.com include:spf3.baidu.com a mx ptr ~all"
+baidu.com. 7199 IN MX 20 mx50.baidu.com.
+baidu.com. 7199 IN MX 10 mx.n.shifen.com.
+baidu.com. 7199 IN MX 20 mx1.baidu.com.
+baidu.com. 7199 IN MX 20 jpmx.baidu.com.
+baidu.com. 599 IN A 123.125.114.144
+baidu.com. 599 IN A 220.181.57.216
+baidu.com. 599 IN A 220.181.57.217
+baidu.com. 21599 IN NS ns2.baidu.com.
+baidu.com. 21599 IN NS ns7.baidu.com.
+baidu.com. 21599 IN NS ns4.baidu.com.
+baidu.com. 21599 IN NS dns.baidu.com.
+baidu.com. 21599 IN NS ns3.baidu.com.
+;AUTHORITY
+;ADDITIONAL
+
+id 18684
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+amazon.com. IN ANY
+;ANSWER
+amazon.com. 864 IN SOA dns-external-master.amazon.com. root.amazon.com. 2010112623 180 60 3024000 60
+amazon.com. 3564 IN NS pdns6.ultradns.co.uk.
+amazon.com. 3564 IN NS ns2.p31.dynect.net.
+amazon.com. 3564 IN NS pdns1.ultradns.net.
+amazon.com. 3564 IN NS ns4.p31.dynect.net.
+amazon.com. 3564 IN NS ns1.p31.dynect.net.
+amazon.com. 3564 IN NS ns3.p31.dynect.net.
+amazon.com. 24 IN A 176.32.98.166
+amazon.com. 24 IN A 72.21.215.232
+amazon.com. 24 IN A 205.251.242.54
+amazon.com. 864 IN MX 5 amazon-smtp.amazon.com.
+amazon.com. 864 IN TXT "spf2.0/pra include:spf1.amazon.com include:spf2.amazon.com include:amazonses.com -all"
+amazon.com. 864 IN TXT "v=spf1 include:spf1.amazon.com include:spf2.amazon.com include:amazonses.com -all"
+;AUTHORITY
+;ADDITIONAL
+
+id 13970
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+wikipedia.org. IN ANY
+;ANSWER
+wikipedia.org. 599 IN A 208.80.154.224
+wikipedia.org. 599 IN AAAA 2620:0:861:ed1a::1
+wikipedia.org. 21599 IN SOA ns0.wikimedia.org. hostmaster.wikimedia.org. 2014112117 43200 7200 1209600 3600
+wikipedia.org. 21599 IN NS ns0.wikimedia.org.
+wikipedia.org. 21599 IN NS ns1.wikimedia.org.
+wikipedia.org. 21599 IN NS ns2.wikimedia.org.
+wikipedia.org. 3599 IN MX 10 polonium.wikimedia.org.
+wikipedia.org. 3599 IN MX 50 lead.wikimedia.org.
+wikipedia.org. 599 IN TXT "google-site-verification=AMHkgs-4ViEvIJf5znZle-BSE2EPNFqM1nDJGRyn2qk"
+;AUTHORITY
+;ADDITIONAL
+
+id 63568
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+taobao.com. IN ANY
+;ANSWER
+taobao.com. 1799 IN SOA ns1.taobao.com. tiexin.taobao.com. 2013124807 1800 600 1814400 300
+taobao.com. 599 IN TXT "v=spf1 include:spf1.staff.mail.aliyun.com -all"
+taobao.com. 599 IN MX 10 mx1.alibaba-inc.com.
+taobao.com. 1799 IN A 110.75.115.70
+taobao.com. 10799 IN NS ns4.taobao.com.
+taobao.com. 10799 IN NS ns5.taobao.com.
+taobao.com. 10799 IN NS ns7.taobao.com.
+taobao.com. 10799 IN NS ns6.taobao.com.
+;AUTHORITY
+;ADDITIONAL
+
+id 34085
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+twitter.com. IN ANY
+;ANSWER
+twitter.com. 18 IN SOA ns1.p26.dynect.net. zone-admin.dyndns.com. 2007119781 3600 600 604800 60
+twitter.com. 588 IN MX 30 ASPMX2.GOOGLEMAIL.com.
+twitter.com. 588 IN MX 20 alt2.aspmx.l.google.com.
+twitter.com. 588 IN MX 30 ASPMX3.GOOGLEMAIL.com.
+twitter.com. 588 IN MX 10 aspmx.l.google.com.
+twitter.com. 588 IN MX 20 alt1.aspmx.l.google.com.
+twitter.com. 21588 IN NS ns4.p34.dynect.net.
+twitter.com. 21588 IN NS ns3.p34.dynect.net.
+twitter.com. 21588 IN NS ns2.p34.dynect.net.
+twitter.com. 21588 IN NS ns1.p34.dynect.net.
+twitter.com. 18 IN A 199.59.149.230
+twitter.com. 18 IN A 199.59.150.7
+twitter.com. 18 IN A 199.59.150.39
+twitter.com. 18 IN A 199.16.156.38
+twitter.com. 18 IN A 199.16.156.6
+twitter.com. 18 IN A 199.59.149.198
+twitter.com. 18 IN A 199.59.148.82
+twitter.com. 18 IN A 199.16.156.230
+twitter.com. 18 IN A 199.59.148.10
+twitter.com. 18 IN A 199.16.156.198
+twitter.com. 18 IN A 199.16.156.70
+twitter.com. 18 IN A 199.16.156.102
+twitter.com. 288 IN TXT "v=spf1 ip4:199.16.156.0/22 ip4:199.59.148.0/22 ip4:8.25.194.0/23 ip4:8.25.196.0/23 ip4:204.92.114.203 ip4:204.92.114.204/31 ip4:107.20.52.15 ip4:23.21.83.90 include:_spf.google.com include:_thirdparty.twitter.com -all"
+;AUTHORITY
+;ADDITIONAL
+
+id 10443
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+qq.com. IN ANY
+;ANSWER
+;AUTHORITY
+qq.com. 493 IN SOA ns1.qq.com. webmaster.qq.com. 1330914143 3600 300 86400 300
+;ADDITIONAL
+
+id 11175
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+google.co.in. IN ANY
+;ANSWER
+google.co.in. 299 IN A 64.15.120.22
+google.co.in. 299 IN A 64.15.120.23
+google.co.in. 299 IN A 64.15.120.25
+google.co.in. 299 IN A 64.15.120.21
+google.co.in. 299 IN A 64.15.120.24
+google.co.in. 299 IN A 64.15.120.26
+google.co.in. 299 IN A 64.15.120.20
+google.co.in. 299 IN A 64.15.120.27
+google.co.in. 21599 IN NS ns4.google.com.
+google.co.in. 21599 IN NS ns1.google.com.
+google.co.in. 21599 IN NS ns3.google.com.
+google.co.in. 21599 IN NS ns2.google.com.
+google.co.in. 599 IN MX 50 alt4.aspmx.l.google.com.
+google.co.in. 599 IN MX 30 alt2.aspmx.l.google.com.
+google.co.in. 599 IN MX 20 alt1.aspmx.l.google.com.
+google.co.in. 599 IN MX 40 alt3.aspmx.l.google.com.
+google.co.in. 599 IN MX 10 aspmx.l.google.com.
+google.co.in. 299 IN TXT "v=spf1 -all"
+google.co.in. 59 IN SOA ns4.google.com. dns-admin.google.com. 1576401 900 900 1800 60
+;AUTHORITY
+;ADDITIONAL
+
+id 62610
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+live.com. IN ANY
+;ANSWER
+live.com. 1589 IN A 65.55.206.154
+live.com. 19589 IN NS ns4.msft.net.
+live.com. 19589 IN NS ns1.msft.net.
+live.com. 19589 IN NS ns2.msft.net.
+live.com. 19589 IN NS ns3.msft.net.
+live.com. 19589 IN SOA ns1.msft.net. msnhst.microsoft.com. 2014121601 7200 900 2419200 3600
+live.com. 1589 IN MX 5 mx1.hotmail.com.
+live.com. 1589 IN MX 5 mx2.hotmail.com.
+live.com. 1589 IN MX 5 mx3.hotmail.com.
+live.com. 1589 IN MX 5 mx4.hotmail.com.
+live.com. 1589 IN TXT "v=spf1 include:spf-a.hotmail.com include:spf-b.hotmail.com include:spf-c.hotmail.com include:spf-d.hotmail.com include:_spf-ssg-a.microsoft.com ~all"
+live.com. 1589 IN TXT "google-site-verification=9Jd_bwLm0HB1LU1v4FHK7ztlJxnE1QpbJxmwICkmWgk"
+;AUTHORITY
+;ADDITIONAL
+
+id 32859
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+sina.com.cn. IN ANY
+;ANSWER
+sina.com.cn. 59 IN A 202.108.33.60
+sina.com.cn. 599 IN SOA ns1.sina.com.cn. zhihao.staff.sina.com.cn. 5 1800 600 604801 600
+sina.com.cn. 21599 IN NS ns3.sina.com.cn.
+sina.com.cn. 21599 IN NS ns2.sina.com.cn.
+sina.com.cn. 21599 IN NS ns1.sina.com.cn.
+sina.com.cn. 21599 IN NS ns4.sina.com.cn.
+sina.com.cn. 599 IN MX 10 freemx2.sinamail.sina.com.cn.
+sina.com.cn. 599 IN MX 10 freemx3.sinamail.sina.com.cn.
+sina.com.cn. 599 IN MX 5 freemx.sinamail.sina.com.cn.
+sina.com.cn. 599 IN MX 10 freemx1.sinamail.sina.com.cn.
+sina.com.cn. 59 IN TXT "v=spf1 include:spf.sinamail.sina.com.cn -all"
+;AUTHORITY
+;ADDITIONAL
+
+id 22406
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+linkedin.com. IN ANY
+;ANSWER
+linkedin.com. 3553 IN SOA ns1.p43.dynect.net. hostmaster.linkedin.com. 2014121600 3600 600 604800 60
+linkedin.com. 21553 IN NS ns4.p43.dynect.net.
+linkedin.com. 21553 IN NS ns2.p43.dynect.net.
+linkedin.com. 21553 IN NS ns3.p43.dynect.net.
+linkedin.com. 21553 IN NS ns3.linkedin.com.
+linkedin.com. 21553 IN NS ns1.p43.dynect.net.
+linkedin.com. 21553 IN NS ns1.linkedin.com.
+linkedin.com. 21553 IN NS ns4.linkedin.com.
+linkedin.com. 21553 IN NS ns2.linkedin.com.
+linkedin.com. 253 IN A 199.101.163.129
+linkedin.com. 253 IN A 108.174.2.129
+linkedin.com. 253 IN MX 10 mail-c.linkedin.com.
+linkedin.com. 253 IN MX 10 mail.linkedin.com.
+linkedin.com. 21553 IN TXT "v=spf1 ip4:8.18.31.21 ip4:8.18.31.22 ip4:69.28.149.0/24 ip4:199.101.162.0/25 ip4:108.174.3.0/24 ip4:108.174.6.0/24 ip6:2620:109:c00d:104::/64 ip6:2620:109:c006:104::/64 ip6:2620:109:c003:104::/64 ip4:216.136.162.65 mx mx:docusign.net ~all"
+linkedin.com. 21553 IN SPF "v=spf1 ip4:8.18.31.21 ip4:8.18.31.22 ip4:69.28.149.0/24 ip4:199.101.162.0/25 ip4:108.174.3.0/24 ip4:108.174.6.0/24 ip6:2620:109:c00d:104::/64 ip6:2620:109:c006:104::/64 ip6:2620:109:c003:104::/64 ip4:216.136.162.65 mx mx:docusign.net ~all"
+;AUTHORITY
+;ADDITIONAL
+
+id 21285
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+weibo.com. IN ANY
+;ANSWER
+weibo.com. 59 IN MX 10 mx.weibo.com.
+weibo.com. 59 IN TXT "v=spf1 include:spf.weibo.com -all"
+weibo.com. 59 IN SOA ns1.sina.com.cn. zhihao.staff.sina.com.cn. 1 28800 7200 604800 600
+weibo.com. 21599 IN NS ns3.sina.com.
+weibo.com. 21599 IN NS ns4.sina.com.cn.
+weibo.com. 21599 IN NS ns3.sina.com.cn.
+weibo.com. 21599 IN NS ns4.sina.com.
+weibo.com. 21599 IN NS ns2.sina.com.cn.
+weibo.com. 21599 IN NS ns1.sina.com.cn.
+weibo.com. 59 IN A 180.149.134.142
+weibo.com. 59 IN A 180.149.134.141
+;AUTHORITY
+;ADDITIONAL
+
+id 35168
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+tmall.com. IN ANY
+;ANSWER
+tmall.com. 1799 IN SOA ns2.taobao.com. tiexin.taobao.com. 2013122464 1800 600 1814400 300
+tmall.com. 599 IN TXT "v=spf1 include:spf1.staff.mail.aliyun.com -all"
+tmall.com. 599 IN MX 10 mx1.alibaba-inc.com.
+tmall.com. 1799 IN A 110.75.115.70
+tmall.com. 10799 IN NS ns6.taobao.com.
+tmall.com. 10799 IN NS ns7.taobao.com.
+tmall.com. 10799 IN NS ns4.taobao.com.
+tmall.com. 10799 IN NS ns5.taobao.com.
+;AUTHORITY
+;ADDITIONAL
+
+id 29782
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+yahoo.co.jp. IN ANY
+;ANSWER
+yahoo.co.jp. 899 IN SOA yahoo.co.jp. postmaster.yahoo.co.jp. 2014121621 1800 900 86400 900
+yahoo.co.jp. 899 IN MX 10 mx5.mail.yahoo.co.jp.
+yahoo.co.jp. 899 IN MX 10 mx1.mail.yahoo.co.jp.
+yahoo.co.jp. 899 IN MX 10 mx3.mail.yahoo.co.jp.
+yahoo.co.jp. 899 IN MX 10 mx2.mail.yahoo.co.jp.
+yahoo.co.jp. 899 IN NS ns11.yahoo.co.jp.
+yahoo.co.jp. 899 IN NS ns12.yahoo.co.jp.
+yahoo.co.jp. 899 IN NS ns02.yahoo.co.jp.
+yahoo.co.jp. 899 IN NS ns01.yahoo.co.jp.
+yahoo.co.jp. 899 IN TXT "v=spf1 include:spf.yahoo.co.jp ~all"
+yahoo.co.jp. 299 IN A 183.79.135.206
+yahoo.co.jp. 299 IN A 182.22.59.229
+;AUTHORITY
+;ADDITIONAL
+
+id 61011
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+blogspot.com. IN ANY
+;ANSWER
+blogspot.com. 299 IN AAAA 2607:f8b0:4009:80b::2009
+blogspot.com. 299 IN A 216.58.216.105
+blogspot.com. 21599 IN NS ns3.google.com.
+blogspot.com. 21599 IN NS ns2.google.com.
+blogspot.com. 21599 IN NS ns4.google.com.
+blogspot.com. 21599 IN NS ns1.google.com.
+blogspot.com. 21599 IN SOA ns1.google.com. dns-admin.google.com. 2013031100 21600 3600 1209600 300
+;AUTHORITY
+;ADDITIONAL
+

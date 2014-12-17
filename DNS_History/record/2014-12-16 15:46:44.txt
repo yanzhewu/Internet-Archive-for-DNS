@@ -1,0 +1,134 @@
+id 54143
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+google.com. IN ANY
+;ANSWER
+google.com. 267 IN A 64.15.120.25
+google.com. 267 IN A 64.15.120.22
+google.com. 267 IN A 64.15.120.20
+google.com. 267 IN A 64.15.120.23
+google.com. 267 IN A 64.15.120.21
+google.com. 267 IN A 64.15.120.24
+google.com. 267 IN A 64.15.120.27
+google.com. 267 IN A 64.15.120.26
+google.com. 21567 IN NS ns3.google.com.
+google.com. 21567 IN NS ns1.google.com.
+google.com. 21567 IN NS ns4.google.com.
+google.com. 21567 IN NS ns2.google.com.
+google.com. 21567 IN SOA ns1.google.com. dns-admin.google.com. 2014112500 7200 1800 1209600 300
+google.com. 567 IN MX 40 alt3.aspmx.l.google.com.
+google.com. 567 IN MX 20 alt1.aspmx.l.google.com.
+google.com. 567 IN MX 10 aspmx.l.google.com.
+google.com. 567 IN MX 30 alt2.aspmx.l.google.com.
+google.com. 567 IN MX 50 alt4.aspmx.l.google.com.
+google.com. 3567 IN TXT "v=spf1 include:_spf.google.com ip4:216.73.93.70/31 ip4:216.73.93.72/31 ~all"
+google.com. 21567 IN TYPE257 \# 19 0005697373756573796d616e7465632e 636f6d
+;AUTHORITY
+;ADDITIONAL
+
+id 39443
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+facebook.com. IN ANY
+;ANSWER
+facebook.com. 21553 IN NS a.ns.facebook.com.
+facebook.com. 21553 IN NS b.ns.facebook.com.
+facebook.com. 21553 IN TXT "v=spf1 redirect=_spf.facebook.com"
+facebook.com. 253 IN MX 10 msgin.vvv.facebook.com.
+facebook.com. 73 IN SOA a.ns.facebook.com. dns.facebook.com. 1418766106 7200 1800 604800 120
+facebook.com. 853 IN A 173.252.120.6
+facebook.com. 853 IN AAAA 2a03:2880:2130:cf05:face:b00c:0:1
+;AUTHORITY
+;ADDITIONAL
+
+id 29491
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+youtube.com. IN ANY
+;ANSWER
+youtube.com. 299 IN A 64.15.120.20
+youtube.com. 299 IN A 64.15.120.23
+youtube.com. 299 IN A 64.15.120.22
+youtube.com. 299 IN A 64.15.120.24
+youtube.com. 299 IN A 64.15.120.25
+youtube.com. 299 IN A 64.15.120.26
+youtube.com. 299 IN A 64.15.120.21
+youtube.com. 299 IN A 64.15.120.27
+youtube.com. 599 IN MX 30 alt2.aspmx.l.google.com.
+youtube.com. 599 IN MX 50 alt4.aspmx.l.google.com.
+youtube.com. 599 IN MX 40 alt3.aspmx.l.google.com.
+youtube.com. 599 IN MX 20 alt1.aspmx.l.google.com.
+youtube.com. 599 IN MX 10 aspmx.l.google.com.
+youtube.com. 21599 IN NS ns2.google.com.
+youtube.com. 21599 IN NS ns1.google.com.
+youtube.com. 21599 IN NS ns4.google.com.
+youtube.com. 21599 IN NS ns3.google.com.
+youtube.com. 3599 IN SOA ns1.google.com. dns-admin.google.com. 2014101500 10800 3600 604800 600
+youtube.com. 3599 IN TXT "v=spf1 include:google.com mx -all"
+;AUTHORITY
+;ADDITIONAL
+
+id 32809
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+yahoo.com. IN ANY
+;ANSWER
+yahoo.com. 1716 IN SOA ns1.yahoo.com. hostmaster.yahoo-inc.com. 2014121605 3600 300 1814400 600
+yahoo.com. 1716 IN A 98.138.253.109
+yahoo.com. 1716 IN A 98.139.183.24
+yahoo.com. 1716 IN A 206.190.36.45
+yahoo.com. 1716 IN MX 1 mta5.am0.yahoodns.net.
+yahoo.com. 1716 IN MX 1 mta6.am0.yahoodns.net.
+yahoo.com. 1716 IN MX 1 mta7.am0.yahoodns.net.
+yahoo.com. 21516 IN NS ns1.yahoo.com.
+yahoo.com. 21516 IN NS ns2.yahoo.com.
+yahoo.com. 21516 IN NS ns5.yahoo.com.
+yahoo.com. 21516 IN NS ns3.yahoo.com.
+yahoo.com. 21516 IN NS ns6.yahoo.com.
+yahoo.com. 21516 IN NS ns4.yahoo.com.
+yahoo.com. 1716 IN TXT "v=spf1 redirect=_spf.mail.yahoo.com"
+;AUTHORITY
+;ADDITIONAL
+
+id 10757
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+edns 0
+payload 512
+;QUESTION
+baidu.com. IN ANY
+;ANSWER
+baidu.com. 6858 IN SOA dns.baidu.com. sa.baidu.com. 2012122916 300 300 2592000 7200
+baidu.com. 6858 IN TXT "v=spf1 include:spf1.baidu.com include:spf2.baidu.com include:spf3.baidu.com a mx ptr ~all"
+baidu.com. 6858 IN MX 20 mx50.baidu.com.
+baidu.com. 6858 IN MX 10 mx.n.shifen.com.
+baidu.com. 6858 IN MX 20 mx1.baidu.com.
+baidu.com. 6858 IN MX 20 jpmx.baidu.com.
+baidu.com. 258 IN A 123.125.114.144
+baidu.com. 258 IN A 220.181.57.216
+baidu.com. 258 IN A 220.181.57.217
+baidu.com. 21258 IN NS ns4.baidu.com.
+baidu.com. 21258 IN NS ns2.baidu.com.
+baidu.com. 21258 IN NS dns.baidu.com.
+baidu.com. 21258 IN NS ns7.baidu.com.
+baidu.com. 21258 IN NS ns3.baidu.com.
+;AUTHORITY
+;ADDITIONAL
+
