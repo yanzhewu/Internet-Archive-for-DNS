@@ -17,7 +17,7 @@ class record:
         for fileLine in fileList:
             line = str(fileLine)
             web = line.split(",")
-            webdomain = web[1].strip('\n')  
+            webdomain = web[1].strip('\n')
             print(webdomain)
             domain = webdomain
             name_server = '8.8.4.4'
