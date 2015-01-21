@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Monitor_17:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Monitor_17_jar</output-path>
+    <root id="archive" name="Monitor_17.jar">
+      <element id="module-output" name="Monitor_17" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.xbill.dns_2.1.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
