@@ -25,6 +25,23 @@ public class missedSites {
         }
     }
 
+    public String[] getMissed(){
+        int i = 0;
+        for(String s:sites){
+            if(s != null){
+                i++;
+            }
+        }
+        String[] list = new String[i];
+        for(String s:sites){
+            if(s != null){
+                list[i-1] = s;
+                i--;
+            }
+        }
+        return list;
+    }
+
     public void printMissedSites(){
         for(String s:sites){
             if(s != null){

@@ -45,7 +45,6 @@ google.com.br
 apple.com
 xvideos.com
 microsoft.com
-.cn
 amazon.de
 imdb.com
 google.it
@@ -55,7 +54,6 @@ t.co
 go.com
 gmw.cn
 amazon.co.uk
-.com
 soso.com
 stackoverflow.com
 google.com.mx
