@@ -85,7 +85,13 @@ public class store {
         ArrayList<record> arrayList = getRecord(server);
         for(record record:arrayList){
             System.out.println(record.getDate());
-            System.out.println(record.getResult()+"\n");
+            System.out.println("This is A record:"+"\n"+record.getA_record()+"\n");
+            System.out.println("This is AAAA record:"+"\n"+record.getAAAA_record()+"\n");
+            System.out.println("This is AAAA record:"+"\n"+record.getAAAA_record()+"\n");
+            System.out.println("This is MX record:"+"\n"+record.getMX_record()+"\n");
+            System.out.println("This is TXT record:"+"\n"+record.getTXT_record()+"\n");
+            System.out.println("This is SOA record:"+"\n"+record.getSOA_record()+"\n");
+            System.out.println("This is TYPE257 record:"+"\n"+record.getTYPE257_record()+"\n");
         }
     }
 }
