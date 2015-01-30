@@ -1,6 +1,7 @@
 import org.xbill.DNS.Message;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 /**
  * Created by wuyanzhe on 1/14/15.
@@ -16,34 +17,47 @@ public class query implements  Runnable{
     static String SOA = "SOA";
     static String TXT = "TXT";
     static String ANY = "ANY";
+    static String A = "A";
+    static String AAAA = "AAAA";
+    static
     private Thread thread;
     private String threadname;
     private String server;
-
-    public Message doQuery(){
-        String[] query1 = {server,TYPE257};
-        String[] query2 = {server,MX};
-        String[] query3 = {server,SOA};
-        String[] query4 = {server,TXT};
-        String[] query5 = {server,ANY};
+    private ArrayList<record> list;
+    public ArrayList<Message> doQuery(){
+        ArrayList<Message> list = new ArrayList<Message>();
+        String[] query1 = {server,A};
+        String[] query2 = {server,AAAA};
+        String[] query3 = {server,TYPE257};
+        String[] query4 = {server,MX};
+        String[] query5 = {server,SOA};
+        String[] query6 = {server,TXT};
+        //String[] query5 = {server,ANY};
         Lookup lookup = new Lookup();
         Message result = null;;
         try{
-            result = lookup.Lookup(query1);
-            result = lookup.Lookup(query2);
-            result = lookup.Lookup(query3);
-            result = lookup.Lookup(query4);
-            result = lookup.Lookup(query5);
+//            result = lookup.Lookup(query1);
+//            result = lookup.Lookup(query2);
+//            result = lookup.Lookup(query3);
+//            result = lookup.Lookup(query4);
+//            result = lookup.Lookup(query5);
+            list.add(lookup.Lookup(query1));
+            list.add(lookup.Lookup(query2));
+            list.add(lookup.Lookup(query3));
+            list.add(lookup.Lookup(query4));
+            list.add(lookup.Lookup(query5));
+            list.add(lookup.Lookup(query6));
         }catch (IOException e){
             System.out.println("Time out.");
             return null;
         }
-        return result;
+        return list;
     }
 
-    public query(String server, String threadname) {
+    public query(String server, String threadname, ArrayList<record> arrayList) {
         this.server = server;
         this.threadname = threadname;
+        this.list = arrayList;
     }
 
     //    public void querySitesOnce(sites sites){
@@ -74,10 +88,11 @@ public class query implements  Runnable{
     @Override
     public void run() {
         try{
-            Message result = doQuery();
+            ArrayList<Message> result = doQuery();
             if(result != null){
-                store.store(result,server); //successful query
-                System.out.println(result.toString());
+                //store.store(result,server); //successful query
+                list.add(new record(result,server));
+                //System.out.println(result.toString());
             }
             else{
                 sites.tryLater(server);  // push back the site if failed
