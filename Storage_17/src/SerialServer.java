@@ -15,7 +15,7 @@ public class SerialServer extends Thread{
                 serverSocket = new ServerSocket(10007);
                 try {
                     while (serverContinue) {
-                        serverSocket.setSoTimeout(600000);
+                        serverSocket.setSoTimeout(60000);
                         System.out.println("Waiting for Client");
                         try {
                             new SerialServer(serverSocket.accept());
