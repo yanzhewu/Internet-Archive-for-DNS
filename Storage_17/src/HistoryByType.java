@@ -1,3 +1,4 @@
+import java.sql.SQLException;
 import java.util.ArrayList;
 
 /**
@@ -7,17 +8,17 @@ public class HistoryByType {
     String Type;
     ArrayList<Period> history;
 
-    public HistoryByType(ArrayList<record> list, String TYPE){
+    public HistoryByType(ArrayList<record> list, String TYPE) throws SQLException{
         this.Type = TYPE;
         if(TYPE.equalsIgnoreCase("A")){
             history = getAHistory(list);
             for(Period period:history){
-                period.printPeriod();
+                //IPrecord.storeIPinMySQL(period, period.getServer());
             }
         }
     }
 
-    public ArrayList<Period> getAHistory(ArrayList<record> list){
+    public ArrayList<Period> getAHistory(ArrayList<record> list) throws SQLException{
         ArrayList<Period> result = new ArrayList<Period>();
         record last = list.get(0);
         Period period = new Period(last);

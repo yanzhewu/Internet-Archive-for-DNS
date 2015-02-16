@@ -6,13 +6,15 @@ import java.util.Timer;
  */
 // Ari makes a change
 public class main {
+    public static String location;
     public static void main(String[] args) {
 
         //default rate is 5 min
         //-rate=300000
         //-check=google.com
         //-check=missed
-        if(args.length == 0){
+        if(args.length == 1){
+            location = args[0];
             Timer t = new Timer();
             MyTask mTask = new MyTask();
             // This task is scheduled to run every 5 minutes

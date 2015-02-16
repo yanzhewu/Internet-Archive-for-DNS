@@ -7,7 +7,6 @@ import java.util.Date;
 /**
  * Created by wuyanzhe on 1/14/15.
  */
-
 /**
  * this class is used to make the message serializable
  */

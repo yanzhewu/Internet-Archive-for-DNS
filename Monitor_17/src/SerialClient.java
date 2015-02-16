@@ -17,10 +17,12 @@ public class SerialClient {
         ObjectOutputStream out = null;
         ObjectInputStream in = null;
 
+        recordPacket packet = new recordPacket(list,main.location);
         try {
             // echoSocket = new Socket("taranis", 7);
-            echoSocket = new Socket("127.0.0.1", 10007);
+            //echoSocket = new Socket("73.8.137.233", 10007);
 
+            echoSocket = new Socket("127.0.0.1", 10007);
             out = new ObjectOutputStream(echoSocket.getOutputStream());
             in = new ObjectInputStream(echoSocket.getInputStream());
 
@@ -34,20 +36,9 @@ public class SerialClient {
         }
 
 
-        System.out.println ("Sending record: " + list + " to Server");
-        out.writeObject(list);
+        System.out.println ("Sending recordPacket: " + list + " to Server");
+        out.writeObject(packet);
         out.flush();
-//        System.out.println ("Send point, waiting for return value");
-
-//        try {
-//            pt2 = (Point3d) in.readObject();
-//        }
-//        catch (Exception ex)
-//        {
-//            System.out.println (ex.getMessage());
-//        }
-//
-//        System.out.println("Got point: " + pt2 + " from Server");
 
         out.close();
         in.close();

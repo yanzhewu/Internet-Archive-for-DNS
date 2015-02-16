@@ -1,7 +1,14 @@
 import org.xbill.DNS.Message;
 
 import java.io.*;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by wuyanzhe on 1/14/15.
@@ -13,7 +20,92 @@ import java.util.ArrayList;
 */
 public class store {
 
-    public static boolean store(record record, String server){ArrayList<record> arrayList = new ArrayList<record>();
+    private Connection conn = null;
+    //private final String url = "jdbc:mysql://localhost/practicum";
+    private final String url = "jdbc:mysql://localhost/test";
+    private final String username = "wuyanzhe";
+    private final String password = "wuyanzhe";
+    int count = 0;
+    private ResultSet resultSet = null;
+    private PreparedStatement pstmt = null;
+    private static final String PATTERN = "^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
+
+    public static void storeRecordInMySQL(ArrayList<record> list, String location) throws SQLException{
+        JDBCconnection db = new JDBCconnection();
+        for(record record:list){
+            ArrayList<String> IP_list = getARecordList(record);
+            for(String ip:IP_list){
+                if(validate(ip)){
+                System.out.println(ip);
+                if(!IPexist(db,ip, record.getServer(),location)){
+                    InsertIPrecord(db, ip, record.getDate(), record.getDate(), record.getServer(), location);
+                }
+                else{
+                    UpdateEndTime(db, ip, record.getDate(), record.getServer(),location);
+                }
+                }
+            }
+        }
+        db.coles();
+    }
+
+    public static boolean validate(String ip){
+        Pattern pattern = Pattern.compile(PATTERN);
+        Matcher matcher = pattern.matcher(ip);
+        return matcher.matches();
+    }
+
+    public static boolean IPexist(JDBCconnection db, String ip, String server,String location) throws SQLException{
+        boolean res = db.IPexistQuery(ip,server,location);
+        return res;
+    }
+
+    public static void InsertIPrecord(JDBCconnection db, String ip, Date start, Date end, String server,String location){
+        db.InsertIPrecordQuery(ip, start, end, server,location);
+    }
+
+    public static void UpdateEndTime(JDBCconnection db, String ip, Date end, String server, String location) {
+        db.UpdateEndTimeQuery(ip,end,server,location);
+    }
+
+    public ResultSet query(String sql){
+        try{
+            pstmt = conn.prepareStatement(sql);
+            resultSet = pstmt.executeQuery();
+        }catch(SQLException e){
+            e.printStackTrace();
+        }finally {
+            return resultSet;
+        }
+    }
+
+    public static ArrayList<String> getARecordList(record record){
+        ArrayList<String> list = new ArrayList<String>();
+        String result = record.getA_record();
+        String[] lines = result.split("ANSWERS:");
+        //printLines(lines);
+        String[] lines1 = lines[1].split(";");
+        String s = lines1[0];
+        s = s.replace("\u005cn","");
+        s = s.replace("\u0009"," ");
+        String[] lines2 = s.split(" ");
+        if(lines2.length == 6){
+            list.add(lines2[5]);
+        }
+        else{
+            String server = record.getServer();
+            int i = 0;
+            while(i+5<lines2.length){
+                i = i+5;
+                String[] lines3 = lines2[i].split(server);
+                list.add(lines3[0]);
+            }
+        }
+        return list;
+    }
+
+    public static boolean store(record record, String server){
+        ArrayList<record> arrayList = new ArrayList<record>();
         String filename = "Record/"+server+".txt";
         File file = new File(filename);
         if(file.exists()){

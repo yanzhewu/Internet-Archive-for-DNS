@@ -1,3 +1,4 @@
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.regex.Pattern;
@@ -7,12 +8,24 @@ import java.util.regex.Pattern;
  */
 public class Period {
     Date Start;
+
     Date End;
     ArrayList<String> recordList;
+    String server;
 
-    public Period(record record){
+    public Period(record record) throws SQLException{
+        this.server = record.getServer();
         this.Start = record.getDate();
         this.recordList = getARecordList(record);
+        //IPrecord.storeIPinMySQL(this, this.server);
+    }
+
+    public String getServer() {
+        return server;
+    }
+
+    public void setServer(String server) {
+        this.server = server;
     }
 
     //get the IP address of A record and return

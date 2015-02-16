@@ -3,6 +3,7 @@
  */
 import java.net.*;
 import java.io.*;
+import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class SerialServer extends Thread{
@@ -38,10 +39,19 @@ public class SerialServer extends Thread{
                     System.exit(1);
                 }
             }
-        }
-        else{
-            if(args[0].equalsIgnoreCase("show")){
-                HistoryCheck.historyCheck(args[1]);
+        } else {
+            if (args[0].equalsIgnoreCase("show")) {
+                if (args.length == 2) {
+                    //need to implement select query here
+                    try {
+                        HistoryCheck.historyCheck(args[1]);
+                    } catch (SQLException e) {
+                        e.printStackTrace();
+                    }
+                    for (IPrecord iPrecord : IPrecord.getIPRecord(args[1])) {
+                        System.out.println(iPrecord.toString());
+                    }
+                }
             }
         }
     }
@@ -60,30 +70,28 @@ public class SerialServer extends Thread{
                     clientSocket.getInputStream());
 
             ArrayList<record> list = null;
+            recordPacket packet = null;
 
             try {
-                list = (ArrayList<record>) in.readObject();
-                for(record record:list){
-                    store.store(record,record.getServer());
-                }
+                packet = (recordPacket)in.readObject();
             }
             catch (Exception ex)
             {
                 System.out.println (ex.getMessage());
             }
-
-
             System.out.println ("Server recieved point: " + list + " from Client");
-
+            list = packet.getList();
+            store.storeRecordInMySQL(list,packet.getLocation());
             out.flush();
-
-
             out.close();
             in.close();
             clientSocket.close();
         }catch (IOException e){
             System.err.println("Server error.");
             System.exit(1);
+        }catch (SQLException e){
+                e.printStackTrace();
         }
+
     }
 }

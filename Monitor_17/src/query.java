@@ -32,15 +32,8 @@ public class query implements  Runnable{
         String[] query4 = {server,MX};
         String[] query5 = {server,SOA};
         String[] query6 = {server,TXT};
-        //String[] query5 = {server,ANY};
         Lookup lookup = new Lookup();
-        Message result = null;;
         try{
-//            result = lookup.Lookup(query1);
-//            result = lookup.Lookup(query2);
-//            result = lookup.Lookup(query3);
-//            result = lookup.Lookup(query4);
-//            result = lookup.Lookup(query5);
             list.add(lookup.Lookup(query1));
             list.add(lookup.Lookup(query2));
             list.add(lookup.Lookup(query3));
@@ -59,20 +52,6 @@ public class query implements  Runnable{
         this.threadname = threadname;
         this.list = arrayList;
     }
-
-    //    public void querySitesOnce(sites sites){
-//        store store = new store();
-//        String server = null;
-//        while ((server = sites.nextSite()) != null){
-//            Message result = doQuery(server);
-//            if(result != null){
-//                store.store(doQuery(server),server); //successful query
-//            }
-//            else{
-//                sites.tryLater(server);
-//            }
-//        }
-//    }
 
     /**
      * When an object implementing interface <code>Runnable</code> is used

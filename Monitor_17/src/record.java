@@ -21,6 +21,7 @@ public class record implements Serializable {
     private String TXT_record;
     private String SOA_record;
 
+
     public record(ArrayList<Message> list, String server) {
         this.server = server;
         this.A_record = list.get(0).toString();
