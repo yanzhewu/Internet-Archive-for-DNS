@@ -211,7 +211,7 @@ public class JDBCconnection {
         }
     }
 
-    public static void UpdateEndTime(String ip, Date end, String server, String location){
+    public static void UpdateEndTime(String ip, Date end, String server,String location){
         JDBCconnection db = new JDBCconnection();
         db.UpdateEndTimeQuery(ip,end,server,location);
         db.coles();

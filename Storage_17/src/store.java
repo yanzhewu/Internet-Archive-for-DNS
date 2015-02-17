@@ -22,16 +22,18 @@ public class store {
 
     private Connection conn = null;
     //private final String url = "jdbc:mysql://localhost/practicum";
-    private final String url = "jdbc:mysql://localhost/test";
-    private final String username = "wuyanzhe";
-    private final String password = "wuyanzhe";
+//    private final String url = "jdbc:mysql://localhost/test";
+//    private final String username = "wuyanzhe";
+//    private final String password = "wuyanzhe";
+    private final String url = "jdbc:sqlite:practicum.db";
     int count = 0;
     private ResultSet resultSet = null;
     private PreparedStatement pstmt = null;
     private static final String PATTERN = "^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
 
     public static void storeRecordInMySQL(ArrayList<record> list, String location) throws SQLException{
-        JDBCconnection db = new JDBCconnection();
+        //JDBCconnection db = new JDBCconnection();
+        JDBCsqlite db = new JDBCsqlite();
         for(record record:list){
             ArrayList<String> IP_list = getARecordList(record);
             for(String ip:IP_list){
@@ -55,18 +57,31 @@ public class store {
         return matcher.matches();
     }
 
-    public static boolean IPexist(JDBCconnection db, String ip, String server,String location) throws SQLException{
+    public static boolean IPexist(JDBCsqlite db, String ip, String server,String location) throws SQLException{
         boolean res = db.IPexistQuery(ip,server,location);
         return res;
     }
 
-    public static void InsertIPrecord(JDBCconnection db, String ip, Date start, Date end, String server,String location){
+    public static void InsertIPrecord(JDBCsqlite db, String ip, Date start, Date end, String server,String location){
         db.InsertIPrecordQuery(ip, start, end, server,location);
     }
 
-    public static void UpdateEndTime(JDBCconnection db, String ip, Date end, String server, String location) {
+    public static void UpdateEndTime(JDBCsqlite db, String ip, Date end, String server, String location) {
         db.UpdateEndTimeQuery(ip,end,server,location);
     }
+
+//    public static boolean IPexist(JDBCconnection db, String ip, String server,String location) throws SQLException{
+//        boolean res = db.IPexistQuery(ip,server,location);
+//        return res;
+//    }
+//
+//    public static void InsertIPrecord(JDBCconnection db, String ip, Date start, Date end, String server,String location){
+//        db.InsertIPrecordQuery(ip, start, end, server,location);
+//    }
+//
+//    public static void UpdateEndTime(JDBCconnection db, String ip, Date end, String server, String location) {
+//        db.UpdateEndTimeQuery(ip,end,server,location);
+//    }
 
     public ResultSet query(String sql){
         try{

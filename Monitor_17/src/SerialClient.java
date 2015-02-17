@@ -20,9 +20,9 @@ public class SerialClient {
         recordPacket packet = new recordPacket(list,main.location);
         try {
             // echoSocket = new Socket("taranis", 7);
-            //echoSocket = new Socket("73.8.137.233", 10007);
+            //echoSocket = new Socket("127.0.0.1", 10007);
 
-            echoSocket = new Socket("127.0.0.1", 10007);
+            echoSocket = new Socket("128.135.164.171", 10007);
             out = new ObjectOutputStream(echoSocket.getOutputStream());
             in = new ObjectInputStream(echoSocket.getInputStream());
 
