@@ -1,11 +1,9 @@
+/**
+ * Created by wuyanzhe on 2/24/15.
+ */
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
 
-/**
- * Created by wuyanzhe on 2/16/15.
- */
 public class JDBCsqlite {
     private Connection conn = null;
     //private final String url = "jdbc:mysql://localhost/practicum";
@@ -17,41 +15,12 @@ public class JDBCsqlite {
         this.conn = connectionDB();
     }
 
-    public ArrayList<String> get_valid_ip_query(JDBCsqlite db, String server, Date t1, Date t2) throws SQLException{
-        long timestamp1 = t1.getTime();
-        long timestamp2 = t2.getTime();
-        System.out.println(timestamp1);
-        System.out.println(timestamp2);
-        ArrayList<String> res = new ArrayList<String>();
-        try{
-            pstmt = conn.prepareStatement("SELECT IP FROM IPrecord WHERE IPrecord.Server = ? AND IPrecord.Start/1000 < ? AND IPrecord.End/1000 > ?");
-            pstmt.setString(1,server);
-            pstmt.setLong(2,timestamp1/1000);
-            pstmt.setLong(3,timestamp2/1000);
-            resultSet = pstmt.executeQuery();
-        }catch(SQLException e){
-            e.printStackTrace();
-        }
-        if(resultSet.next()){
-            res.add(resultSet.getString(1));
-            while(resultSet.next()){
-                res.add(resultSet.getString(1));
-            }
-            return  res;
-        }else{
-            return null;}
-    }
-
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
         JDBCsqlite db = new JDBCsqlite();
         //db.testQuery();
         //db.testUpdate();
-        Date date = new Date(1424137748);
-        //db.InsertIPrecordQuery("1.2.3.2",date,date,"google.com","Chicago");
-        ArrayList<String> res = db.get_valid_ip_query(db, "google.com", date, date);
-        for(String s: res){
-            System.out.println(s);
-        }
+        Date date = new Date();
+        db.InsertIPrecordQuery("1.2.3.2",date,date,"google.com","Chicago");
 //        if(!IPexist("01.2.3.2","google.com")) System.out.println("no");
         db.coles();
     }
@@ -130,7 +99,7 @@ public class JDBCsqlite {
             pstmt.setString(1,ip);
             pstmt.setTimestamp(2, sqlStart);
             pstmt.setTimestamp(3, sqlEnd);
-            pstmt.setString(4, server);
+            pstmt.setString(4,server);
             pstmt.setString(5,location);
             this.count=pstmt.executeUpdate();
         } catch (SQLException e) {
@@ -179,3 +148,4 @@ public class JDBCsqlite {
 
 
 }
+

@@ -3,8 +3,14 @@
  */
 import java.net.*;
 import java.io.*;
+import java.nio.channels.SelectionKey;
+import java.nio.channels.Selector;
+import java.nio.channels.ServerSocketChannel;
+import java.nio.channels.SocketChannel;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Set;
 
 public class SerialServer extends Thread{
     protected static boolean serverContinue = true;
@@ -61,9 +67,9 @@ public class SerialServer extends Thread{
         start();
     }
 
-    public void run(){
+    public void run() {
         System.out.println("New TCP connection thread started.");
-        try{
+        try {
             ObjectOutputStream out = new ObjectOutputStream(
                     clientSocket.getOutputStream());
             ObjectInputStream in = new ObjectInputStream(
@@ -71,27 +77,41 @@ public class SerialServer extends Thread{
 
             ArrayList<record> list = null;
             recordPacket packet = null;
-
+            Object object = null;
             try {
-                packet = (recordPacket)in.readObject();
+                object = in.readObject();
+                //packet = (recordPacket) in.readObject();
+            } catch (Exception ex) {
+                System.out.println(ex.getMessage());
             }
-            catch (Exception ex)
-            {
-                System.out.println (ex.getMessage());
+            if (object instanceof String) {
+                String query = (String)object;
+                //System.out.println(query);
+                System.out.println("Server received query "+ query + " from Client");
+                ArrayList<String> IP_list = store.get_valid_ip(query);
+                for(String s: IP_list){
+                    System.out.println(s);
+                }
+                out.writeObject(IP_list);
+                out.flush();
+                out.close();
+                in.close();
+                clientSocket.close();
+            } else {
+                packet = (recordPacket)object;
+                System.out.println("Server received point: " + list + " from Client");
+                list = packet.getList();
+                store.storeRecordInMySQL(list, packet.getLocation());
+                out.flush();
+                out.close();
+                in.close();
+                clientSocket.close();
             }
-            System.out.println ("Server recieved point: " + list + " from Client");
-            list = packet.getList();
-            store.storeRecordInMySQL(list,packet.getLocation());
-            out.flush();
-            out.close();
-            in.close();
-            clientSocket.close();
-        }catch (IOException e){
+        } catch (IOException e) {
             System.err.println("Server error.");
             System.exit(1);
-        }catch (SQLException e){
-                e.printStackTrace();
+        } catch (SQLException e) {
+            e.printStackTrace();
         }
-
     }
 }

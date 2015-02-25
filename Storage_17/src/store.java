@@ -1,10 +1,13 @@
 import org.xbill.DNS.Message;
 
+import javax.swing.text.DateFormatter;
 import java.io.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.regex.Matcher;
@@ -31,6 +34,25 @@ public class store {
     private PreparedStatement pstmt = null;
     private static final String PATTERN = "^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
 
+    //query consists of domain+t1+t2 time should be like: 2015-02-24 18:18:54
+    public static ArrayList<String> get_valid_ip(String query) throws SQLException{
+        JDBCsqlite db = new JDBCsqlite();
+        ArrayList<String> res = new ArrayList<String>();
+        String[] parts = query.split(" ");
+        String server = parts[0];
+        String t1 = parts[1]+"T"+parts[2];
+        String t2 = parts[3]+"T"+parts[4];
+        SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss");
+        try {
+            Date date1 = formatter.parse(t1);
+            Date date2 = formatter.parse(t2);
+            res =  get_valid_ip(db, server, date1, date2);
+        }catch (ParseException e){
+            e.printStackTrace();
+        }
+        return res;
+    }
+
     public static void storeRecordInMySQL(ArrayList<record> list, String location) throws SQLException{
         //JDBCconnection db = new JDBCconnection();
         JDBCsqlite db = new JDBCsqlite();
@@ -55,6 +77,10 @@ public class store {
         Pattern pattern = Pattern.compile(PATTERN);
         Matcher matcher = pattern.matcher(ip);
         return matcher.matches();
+    }
+
+    public static ArrayList<String> get_valid_ip(JDBCsqlite db, String server, Date date1, Date date2) throws SQLException{
+        return db.get_valid_ip_query(db,server,date1,date2);
     }
 
     public static boolean IPexist(JDBCsqlite db, String ip, String server,String location) throws SQLException{
