@@ -10,494 +10,495 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SerialClient.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/recordPacket.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Monitor_17.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Monitor_17_jar/Monitor_17.jar" afterPath="$PROJECT_DIR$/out/artifacts/Monitor_17_jar/Monitor_17.jar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/about.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/abs-cbnnews.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/accuweather.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/adcash.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/addthis.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/adf.ly.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/adm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/adobe.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/adplxmd.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/adsrvmedia.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/agoda.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/aili.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/akamaihd.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/alibaba.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/aliexpress.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/alipay.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/allegro.pl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/allrecipes.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.ca.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.co.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.co.uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.es.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.fr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.in.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazon.it.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/amazonaws.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ameba.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ameblo.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/americanexpress.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/answers.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/aol.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/apple.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/archive.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ask.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ask.fm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/asos.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/att.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/avg.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/avito.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/badoo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/baidu.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bankofamerica.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/baomihua.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/battle.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bbc.co.uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bbc.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/beeg.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bestadbid.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bestbuy.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bet.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bild.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bilibili.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bing.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bitauto.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bitly.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bleacherreport.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/blogfa.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/blogger.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/blogspot.com.es.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/blogspot.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/blogspot.in.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bloomberg.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bongacams.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/booking.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bp.blogspot.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/businessinsider.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/buzzfeed.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/bycontext.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/caijing.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/capitalone.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cbssports.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ce.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/chaturbate.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/china.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/china.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/chinadaily.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/chinatimes.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ci.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cloudfront.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cnet.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cnn.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cntv.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cnzz.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/coccoc.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/codecanyon.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/comcast.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/costco.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/cpmterra.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/craigslist.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dailymail.co.uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dailymotion.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/daum.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dell.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/detik.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/deviantart.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/diply.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/directrev.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/disqus.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dmm.co.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dmm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/doorblog.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/doubleclick.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/doublepimp.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dropbox.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dsply.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/dsrlte.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/eastday.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ebay.co.uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ebay.com.au.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ebay.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ebay.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ebay.in.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ebay.it.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ehow.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/engadget.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ero-advertising.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/espn.go.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/espncricinfo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/etsy.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ettoday.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/evernote.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/exoclick.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/extratorrent.cc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/facebook.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/faithtap.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/fbcdn.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/fbnewstoday.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/fc.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/fedex.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/feedly.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/files.wordpress.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/fiverr.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/flickr.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/forbes.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/force.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/foxnews.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/free.fr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gag.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gameforge.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gap.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gawker.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gfycat.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gigacircle.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/github.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/github.io.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gizmodo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/globo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gmail.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gmw.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gmx.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/go.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/goal.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/godaddy.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gome.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/goo.ne.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/goodgamestudios.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/goodreads.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.ae.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.at.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.az.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.be.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.ca.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.ch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.cl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.hu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.id.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.il.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.in.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.kr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.th.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.ve.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.co.za.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.ar.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.au.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.bd.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.br.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.co.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.eg.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.hk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.mx.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.my.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.ng.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.pe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.ph.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.pk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.sa.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.sg.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.tr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.tw.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.ua.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.com.vn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.cz.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.dk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.dz.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.es.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.fi.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.fr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.gr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.ie.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.it.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.nl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.no.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.pl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.pt.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.ro.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/google.se.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/googleadservices.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/googleapis.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/googleusercontent.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/groupon.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/gsmarena.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/haiwainet.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hao.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hdfcbank.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/homedepot.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hootsuite.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hostgator.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hp.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hstpnetwork.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/huanqiu.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hudong.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/huffingtonpost.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hulu.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/hurriyet.com.tr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/icicibank.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ifeng.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ign.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ikea.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ilividnewtab.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/imdb.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/imgur.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/in.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/indeed.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/indiatimes.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ink.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/instagram.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/intoday.in.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/iqiyi.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ixxx.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/jabong.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/java.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/jd.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/justdial.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kakaku.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kaskus.co.id.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kickass.so.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kickstarter.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kinopoisk.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kohls.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/kompas.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/lady.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/leboncoin.fr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/life.com.tw.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/lifehacker.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/lightinthebox.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/likes.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/linkedin.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/liputan.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/live.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/livedoor.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/liveinternet.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/livejasmin.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/livejournal.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/loading-delivery.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ltn.com.tw.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/macys.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mail.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/marca.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mashable.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mbtrx.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/media.tumblr.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mediafire.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mediafirst.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/meetup.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mercadolivre.com.br.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/microsoft.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/microsoftonline.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/milliyet.com.tr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mobile.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/moz.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mozilla.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/msn.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/myntra.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/mystart.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/naukri.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/naver.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/naver.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/nba.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ndtv.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/netflix.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/newegg.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/nfl.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/nicovideo.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/nih.gov.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/nordstrom.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/nytimes.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/odnoklassniki.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/office.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ok.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/okcupid.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/omiga-plus.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/onclickads.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/onet.pl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/onlinesbi.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/oracle.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/orange.fr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/outbrain.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/outlook.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/overstock.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pandora.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/paypal.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pchome.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pconline.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/people.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/photobucket.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/php.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pinterest.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pixiv.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pixnet.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/pm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/popads.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ppomppu.co.kr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/qq.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/quikr.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/quora.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/rakuten.co.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/rambler.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/rbc.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/reddit.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/rediff.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/redtube.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/reference.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/reimageplus.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/reuters.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/rt.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/rutracker.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sabq.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sahibinden.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/salesforce.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/samsung.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sberbank.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/scribd.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sears.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/secureserver.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sex.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/seznam.cz.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/shared.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/shutterstock.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sina.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/skype.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/slickdeals.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/slideshare.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/smzdm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/so.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/softonic.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sogou.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sohu.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/soso.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/soundcloud.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/sourceforge.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/speedtest.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/spiegel.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/spotify.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/stackexchange.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/stackoverflow.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/staples.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/steamcommunity.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/steampowered.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/stumbleupon.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/stylene.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/suning.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/surveymonkey.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/t-online.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/t.co.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/taboola.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/taobao.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/target.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/taringa.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/techcrunch.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/teepr.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/telegraph.co.uk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/thefreedictionary.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/theguardian.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/theladbible.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/themeforest.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/thepiratebay.se.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/theverge.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tianya.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/time.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tistory.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tmall.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tmz.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/torrentz.eu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/toysrus.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/trackingclick.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/trello.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tripadvisor.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/trklnks.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/trovi.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tube.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tubecup.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tudou.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/tumblr.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/twimg.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/twitch.tv.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/twitter.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ucoz.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/udn.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/uol.com.br.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/uploaded.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ups.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/usatoday.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/usps.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/varzesh.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/verizonwireless.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/vetogate.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/vice.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/vimeo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/vk.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/weather.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/web.de.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/webmd.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/webssearches.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/weebly.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/weibo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wellsfargo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wikia.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wikihow.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wikimedia.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wikipedia.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wix.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wordpress.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wordpress.org.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wordreference.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wow.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wp.pl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wschools.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/wsj.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xcar.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xda-developers.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xhamster.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xinhuanet.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xnxx.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xuite.net.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xvideos.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/xywy.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yahoo.co.jp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yahoo.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yandex.ru.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yandex.ua.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yaolan.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yelp.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/yesky.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/youku.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/youm.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/youradexchange.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/youth.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/youtube.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/zendesk.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/ziddu.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/zillow.com.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Record/zol.com.cn.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Monitor_17_jar/Monitor_17.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Monitor_17/main.class" afterPath="$PROJECT_DIR$/out/production/Monitor_17/main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Monitor_17/missedSites.class" afterPath="$PROJECT_DIR$/out/production/Monitor_17/missedSites.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Monitor_17/query.class" afterPath="$PROJECT_DIR$/out/production/Monitor_17/query.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Monitor_17/queryOnce.class" afterPath="$PROJECT_DIR$/out/production/Monitor_17/queryOnce.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Monitor_17/record.class" afterPath="$PROJECT_DIR$/out/production/Monitor_17/record.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Monitor_17/store.class" afterPath="$PROJECT_DIR$/out/production/Monitor_17/store.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/about.com.txt" afterPath="$PROJECT_DIR$/Record/about.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/abs-cbnnews.com.txt" afterPath="$PROJECT_DIR$/Record/abs-cbnnews.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/accuweather.com.txt" afterPath="$PROJECT_DIR$/Record/accuweather.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/adcash.com.txt" afterPath="$PROJECT_DIR$/Record/adcash.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/addthis.com.txt" afterPath="$PROJECT_DIR$/Record/addthis.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/adf.ly.txt" afterPath="$PROJECT_DIR$/Record/adf.ly.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/adm.com.txt" afterPath="$PROJECT_DIR$/Record/adm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/adobe.com.txt" afterPath="$PROJECT_DIR$/Record/adobe.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/adplxmd.com.txt" afterPath="$PROJECT_DIR$/Record/adplxmd.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/adsrvmedia.net.txt" afterPath="$PROJECT_DIR$/Record/adsrvmedia.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/agoda.com.txt" afterPath="$PROJECT_DIR$/Record/agoda.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/aili.com.txt" afterPath="$PROJECT_DIR$/Record/aili.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/akamaihd.net.txt" afterPath="$PROJECT_DIR$/Record/akamaihd.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/alibaba.com.txt" afterPath="$PROJECT_DIR$/Record/alibaba.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/aliexpress.com.txt" afterPath="$PROJECT_DIR$/Record/aliexpress.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/alipay.com.txt" afterPath="$PROJECT_DIR$/Record/alipay.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/allegro.pl.txt" afterPath="$PROJECT_DIR$/Record/allegro.pl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/allrecipes.com.txt" afterPath="$PROJECT_DIR$/Record/allrecipes.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.ca.txt" afterPath="$PROJECT_DIR$/Record/amazon.ca.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.cn.txt" afterPath="$PROJECT_DIR$/Record/amazon.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.co.jp.txt" afterPath="$PROJECT_DIR$/Record/amazon.co.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.co.uk.txt" afterPath="$PROJECT_DIR$/Record/amazon.co.uk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.com.txt" afterPath="$PROJECT_DIR$/Record/amazon.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.de.txt" afterPath="$PROJECT_DIR$/Record/amazon.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.es.txt" afterPath="$PROJECT_DIR$/Record/amazon.es.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.fr.txt" afterPath="$PROJECT_DIR$/Record/amazon.fr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.in.txt" afterPath="$PROJECT_DIR$/Record/amazon.in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazon.it.txt" afterPath="$PROJECT_DIR$/Record/amazon.it.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/amazonaws.com.txt" afterPath="$PROJECT_DIR$/Record/amazonaws.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ameba.jp.txt" afterPath="$PROJECT_DIR$/Record/ameba.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ameblo.jp.txt" afterPath="$PROJECT_DIR$/Record/ameblo.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/americanexpress.com.txt" afterPath="$PROJECT_DIR$/Record/americanexpress.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/answers.com.txt" afterPath="$PROJECT_DIR$/Record/answers.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/aol.com.txt" afterPath="$PROJECT_DIR$/Record/aol.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/apple.com.txt" afterPath="$PROJECT_DIR$/Record/apple.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/archive.org.txt" afterPath="$PROJECT_DIR$/Record/archive.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ask.com.txt" afterPath="$PROJECT_DIR$/Record/ask.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ask.fm.txt" afterPath="$PROJECT_DIR$/Record/ask.fm.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/asos.com.txt" afterPath="$PROJECT_DIR$/Record/asos.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/att.com.txt" afterPath="$PROJECT_DIR$/Record/att.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/avg.com.txt" afterPath="$PROJECT_DIR$/Record/avg.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/avito.ru.txt" afterPath="$PROJECT_DIR$/Record/avito.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/badoo.com.txt" afterPath="$PROJECT_DIR$/Record/badoo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/baidu.com.txt" afterPath="$PROJECT_DIR$/Record/baidu.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bankofamerica.com.txt" afterPath="$PROJECT_DIR$/Record/bankofamerica.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/baomihua.com.txt" afterPath="$PROJECT_DIR$/Record/baomihua.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/battle.net.txt" afterPath="$PROJECT_DIR$/Record/battle.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bbc.co.uk.txt" afterPath="$PROJECT_DIR$/Record/bbc.co.uk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bbc.com.txt" afterPath="$PROJECT_DIR$/Record/bbc.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/beeg.com.txt" afterPath="$PROJECT_DIR$/Record/beeg.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bestadbid.com.txt" afterPath="$PROJECT_DIR$/Record/bestadbid.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bestbuy.com.txt" afterPath="$PROJECT_DIR$/Record/bestbuy.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bet.com.txt" afterPath="$PROJECT_DIR$/Record/bet.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bild.de.txt" afterPath="$PROJECT_DIR$/Record/bild.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bilibili.com.txt" afterPath="$PROJECT_DIR$/Record/bilibili.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bing.com.txt" afterPath="$PROJECT_DIR$/Record/bing.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bitauto.com.txt" afterPath="$PROJECT_DIR$/Record/bitauto.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bitly.com.txt" afterPath="$PROJECT_DIR$/Record/bitly.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bleacherreport.com.txt" afterPath="$PROJECT_DIR$/Record/bleacherreport.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/blogfa.com.txt" afterPath="$PROJECT_DIR$/Record/blogfa.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/blogger.com.txt" afterPath="$PROJECT_DIR$/Record/blogger.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/blogspot.com.es.txt" afterPath="$PROJECT_DIR$/Record/blogspot.com.es.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/blogspot.com.txt" afterPath="$PROJECT_DIR$/Record/blogspot.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/blogspot.in.txt" afterPath="$PROJECT_DIR$/Record/blogspot.in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bloomberg.com.txt" afterPath="$PROJECT_DIR$/Record/bloomberg.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bm.com.txt" afterPath="$PROJECT_DIR$/Record/bm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bongacams.com.txt" afterPath="$PROJECT_DIR$/Record/bongacams.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/booking.com.txt" afterPath="$PROJECT_DIR$/Record/booking.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bp.blogspot.com.txt" afterPath="$PROJECT_DIR$/Record/bp.blogspot.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/businessinsider.com.txt" afterPath="$PROJECT_DIR$/Record/businessinsider.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/buzzfeed.com.txt" afterPath="$PROJECT_DIR$/Record/buzzfeed.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/bycontext.com.txt" afterPath="$PROJECT_DIR$/Record/bycontext.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/caijing.com.cn.txt" afterPath="$PROJECT_DIR$/Record/caijing.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/capitalone.com.txt" afterPath="$PROJECT_DIR$/Record/capitalone.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cbssports.com.txt" afterPath="$PROJECT_DIR$/Record/cbssports.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ce.cn.txt" afterPath="$PROJECT_DIR$/Record/ce.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/chaturbate.com.txt" afterPath="$PROJECT_DIR$/Record/chaturbate.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/china.com.cn.txt" afterPath="$PROJECT_DIR$/Record/china.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/china.com.txt" afterPath="$PROJECT_DIR$/Record/china.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/chinadaily.com.cn.txt" afterPath="$PROJECT_DIR$/Record/chinadaily.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/chinatimes.com.txt" afterPath="$PROJECT_DIR$/Record/chinatimes.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ci.com.txt" afterPath="$PROJECT_DIR$/Record/ci.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cloudfront.net.txt" afterPath="$PROJECT_DIR$/Record/cloudfront.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cnet.com.txt" afterPath="$PROJECT_DIR$/Record/cnet.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cnn.com.txt" afterPath="$PROJECT_DIR$/Record/cnn.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cntv.cn.txt" afterPath="$PROJECT_DIR$/Record/cntv.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cnzz.com.txt" afterPath="$PROJECT_DIR$/Record/cnzz.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/coccoc.com.txt" afterPath="$PROJECT_DIR$/Record/coccoc.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/codecanyon.net.txt" afterPath="$PROJECT_DIR$/Record/codecanyon.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/comcast.net.txt" afterPath="$PROJECT_DIR$/Record/comcast.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/costco.com.txt" afterPath="$PROJECT_DIR$/Record/costco.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/cpmterra.com.txt" afterPath="$PROJECT_DIR$/Record/cpmterra.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/craigslist.org.txt" afterPath="$PROJECT_DIR$/Record/craigslist.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dailymail.co.uk.txt" afterPath="$PROJECT_DIR$/Record/dailymail.co.uk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dailymotion.com.txt" afterPath="$PROJECT_DIR$/Record/dailymotion.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/daum.net.txt" afterPath="$PROJECT_DIR$/Record/daum.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dell.com.txt" afterPath="$PROJECT_DIR$/Record/dell.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/detik.com.txt" afterPath="$PROJECT_DIR$/Record/detik.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/deviantart.com.txt" afterPath="$PROJECT_DIR$/Record/deviantart.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/diply.com.txt" afterPath="$PROJECT_DIR$/Record/diply.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/directrev.com.txt" afterPath="$PROJECT_DIR$/Record/directrev.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/disqus.com.txt" afterPath="$PROJECT_DIR$/Record/disqus.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dmm.co.jp.txt" afterPath="$PROJECT_DIR$/Record/dmm.co.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dmm.com.txt" afterPath="$PROJECT_DIR$/Record/dmm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/doorblog.jp.txt" afterPath="$PROJECT_DIR$/Record/doorblog.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/doubleclick.com.txt" afterPath="$PROJECT_DIR$/Record/doubleclick.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/doublepimp.com.txt" afterPath="$PROJECT_DIR$/Record/doublepimp.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dropbox.com.txt" afterPath="$PROJECT_DIR$/Record/dropbox.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dsply.com.txt" afterPath="$PROJECT_DIR$/Record/dsply.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/dsrlte.com.txt" afterPath="$PROJECT_DIR$/Record/dsrlte.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/eastday.com.txt" afterPath="$PROJECT_DIR$/Record/eastday.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ebay.co.uk.txt" afterPath="$PROJECT_DIR$/Record/ebay.co.uk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ebay.com.au.txt" afterPath="$PROJECT_DIR$/Record/ebay.com.au.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ebay.com.txt" afterPath="$PROJECT_DIR$/Record/ebay.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ebay.de.txt" afterPath="$PROJECT_DIR$/Record/ebay.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ebay.in.txt" afterPath="$PROJECT_DIR$/Record/ebay.in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ebay.it.txt" afterPath="$PROJECT_DIR$/Record/ebay.it.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ehow.com.txt" afterPath="$PROJECT_DIR$/Record/ehow.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/engadget.com.txt" afterPath="$PROJECT_DIR$/Record/engadget.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ero-advertising.com.txt" afterPath="$PROJECT_DIR$/Record/ero-advertising.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/espn.go.com.txt" afterPath="$PROJECT_DIR$/Record/espn.go.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/espncricinfo.com.txt" afterPath="$PROJECT_DIR$/Record/espncricinfo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/etsy.com.txt" afterPath="$PROJECT_DIR$/Record/etsy.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ettoday.net.txt" afterPath="$PROJECT_DIR$/Record/ettoday.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/evernote.com.txt" afterPath="$PROJECT_DIR$/Record/evernote.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/exoclick.com.txt" afterPath="$PROJECT_DIR$/Record/exoclick.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/extratorrent.cc.txt" afterPath="$PROJECT_DIR$/Record/extratorrent.cc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/facebook.com.txt" afterPath="$PROJECT_DIR$/Record/facebook.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/faithtap.com.txt" afterPath="$PROJECT_DIR$/Record/faithtap.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/fbcdn.net.txt" afterPath="$PROJECT_DIR$/Record/fbcdn.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/fbnewstoday.com.txt" afterPath="$PROJECT_DIR$/Record/fbnewstoday.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/fc.com.txt" afterPath="$PROJECT_DIR$/Record/fc.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/fedex.com.txt" afterPath="$PROJECT_DIR$/Record/fedex.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/feedly.com.txt" afterPath="$PROJECT_DIR$/Record/feedly.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/files.wordpress.com.txt" afterPath="$PROJECT_DIR$/Record/files.wordpress.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/fiverr.com.txt" afterPath="$PROJECT_DIR$/Record/fiverr.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/flickr.com.txt" afterPath="$PROJECT_DIR$/Record/flickr.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/force.com.txt" afterPath="$PROJECT_DIR$/Record/force.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/foxnews.com.txt" afterPath="$PROJECT_DIR$/Record/foxnews.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/free.fr.txt" afterPath="$PROJECT_DIR$/Record/free.fr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gag.com.txt" afterPath="$PROJECT_DIR$/Record/gag.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gameforge.com.txt" afterPath="$PROJECT_DIR$/Record/gameforge.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gap.com.txt" afterPath="$PROJECT_DIR$/Record/gap.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gawker.com.txt" afterPath="$PROJECT_DIR$/Record/gawker.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gfycat.com.txt" afterPath="$PROJECT_DIR$/Record/gfycat.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gigacircle.com.txt" afterPath="$PROJECT_DIR$/Record/gigacircle.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/github.com.txt" afterPath="$PROJECT_DIR$/Record/github.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/github.io.txt" afterPath="$PROJECT_DIR$/Record/github.io.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gizmodo.com.txt" afterPath="$PROJECT_DIR$/Record/gizmodo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/globo.com.txt" afterPath="$PROJECT_DIR$/Record/globo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gmail.com.txt" afterPath="$PROJECT_DIR$/Record/gmail.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gmw.cn.txt" afterPath="$PROJECT_DIR$/Record/gmw.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gmx.net.txt" afterPath="$PROJECT_DIR$/Record/gmx.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/go.com.txt" afterPath="$PROJECT_DIR$/Record/go.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/goal.com.txt" afterPath="$PROJECT_DIR$/Record/goal.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/godaddy.com.txt" afterPath="$PROJECT_DIR$/Record/godaddy.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gome.com.cn.txt" afterPath="$PROJECT_DIR$/Record/gome.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/goo.ne.jp.txt" afterPath="$PROJECT_DIR$/Record/goo.ne.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/goodgamestudios.com.txt" afterPath="$PROJECT_DIR$/Record/goodgamestudios.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/goodreads.com.txt" afterPath="$PROJECT_DIR$/Record/goodreads.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.ae.txt" afterPath="$PROJECT_DIR$/Record/google.ae.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.at.txt" afterPath="$PROJECT_DIR$/Record/google.at.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.az.txt" afterPath="$PROJECT_DIR$/Record/google.az.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.be.txt" afterPath="$PROJECT_DIR$/Record/google.be.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.ca.txt" afterPath="$PROJECT_DIR$/Record/google.ca.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.ch.txt" afterPath="$PROJECT_DIR$/Record/google.ch.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.cl.txt" afterPath="$PROJECT_DIR$/Record/google.cl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.cn.txt" afterPath="$PROJECT_DIR$/Record/google.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.hu.txt" afterPath="$PROJECT_DIR$/Record/google.co.hu.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.id.txt" afterPath="$PROJECT_DIR$/Record/google.co.id.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.il.txt" afterPath="$PROJECT_DIR$/Record/google.co.il.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.in.txt" afterPath="$PROJECT_DIR$/Record/google.co.in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.jp.txt" afterPath="$PROJECT_DIR$/Record/google.co.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.kr.txt" afterPath="$PROJECT_DIR$/Record/google.co.kr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.th.txt" afterPath="$PROJECT_DIR$/Record/google.co.th.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.uk.txt" afterPath="$PROJECT_DIR$/Record/google.co.uk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.ve.txt" afterPath="$PROJECT_DIR$/Record/google.co.ve.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.co.za.txt" afterPath="$PROJECT_DIR$/Record/google.co.za.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.ar.txt" afterPath="$PROJECT_DIR$/Record/google.com.ar.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.au.txt" afterPath="$PROJECT_DIR$/Record/google.com.au.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.bd.txt" afterPath="$PROJECT_DIR$/Record/google.com.bd.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.br.txt" afterPath="$PROJECT_DIR$/Record/google.com.br.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.co.txt" afterPath="$PROJECT_DIR$/Record/google.com.co.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.eg.txt" afterPath="$PROJECT_DIR$/Record/google.com.eg.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.hk.txt" afterPath="$PROJECT_DIR$/Record/google.com.hk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.mx.txt" afterPath="$PROJECT_DIR$/Record/google.com.mx.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.my.txt" afterPath="$PROJECT_DIR$/Record/google.com.my.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.ng.txt" afterPath="$PROJECT_DIR$/Record/google.com.ng.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.pe.txt" afterPath="$PROJECT_DIR$/Record/google.com.pe.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.ph.txt" afterPath="$PROJECT_DIR$/Record/google.com.ph.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.pk.txt" afterPath="$PROJECT_DIR$/Record/google.com.pk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.sa.txt" afterPath="$PROJECT_DIR$/Record/google.com.sa.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.sg.txt" afterPath="$PROJECT_DIR$/Record/google.com.sg.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.tr.txt" afterPath="$PROJECT_DIR$/Record/google.com.tr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.tw.txt" afterPath="$PROJECT_DIR$/Record/google.com.tw.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.txt" afterPath="$PROJECT_DIR$/Record/google.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.ua.txt" afterPath="$PROJECT_DIR$/Record/google.com.ua.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.com.vn.txt" afterPath="$PROJECT_DIR$/Record/google.com.vn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.cz.txt" afterPath="$PROJECT_DIR$/Record/google.cz.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.de.txt" afterPath="$PROJECT_DIR$/Record/google.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.dk.txt" afterPath="$PROJECT_DIR$/Record/google.dk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.dz.txt" afterPath="$PROJECT_DIR$/Record/google.dz.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.es.txt" afterPath="$PROJECT_DIR$/Record/google.es.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.fi.txt" afterPath="$PROJECT_DIR$/Record/google.fi.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.fr.txt" afterPath="$PROJECT_DIR$/Record/google.fr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.gr.txt" afterPath="$PROJECT_DIR$/Record/google.gr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.ie.txt" afterPath="$PROJECT_DIR$/Record/google.ie.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.it.txt" afterPath="$PROJECT_DIR$/Record/google.it.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.nl.txt" afterPath="$PROJECT_DIR$/Record/google.nl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.no.txt" afterPath="$PROJECT_DIR$/Record/google.no.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.pl.txt" afterPath="$PROJECT_DIR$/Record/google.pl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.pt.txt" afterPath="$PROJECT_DIR$/Record/google.pt.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.ro.txt" afterPath="$PROJECT_DIR$/Record/google.ro.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.ru.txt" afterPath="$PROJECT_DIR$/Record/google.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/google.se.txt" afterPath="$PROJECT_DIR$/Record/google.se.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/googleadservices.com.txt" afterPath="$PROJECT_DIR$/Record/googleadservices.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/googleapis.com.txt" afterPath="$PROJECT_DIR$/Record/googleapis.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/googleusercontent.com.txt" afterPath="$PROJECT_DIR$/Record/googleusercontent.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/groupon.com.txt" afterPath="$PROJECT_DIR$/Record/groupon.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/gsmarena.com.txt" afterPath="$PROJECT_DIR$/Record/gsmarena.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/haiwainet.cn.txt" afterPath="$PROJECT_DIR$/Record/haiwainet.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hao.com.txt" afterPath="$PROJECT_DIR$/Record/hao.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hdfcbank.com.txt" afterPath="$PROJECT_DIR$/Record/hdfcbank.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hm.com.txt" afterPath="$PROJECT_DIR$/Record/hm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/homedepot.com.txt" afterPath="$PROJECT_DIR$/Record/homedepot.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hootsuite.com.txt" afterPath="$PROJECT_DIR$/Record/hootsuite.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hostgator.com.txt" afterPath="$PROJECT_DIR$/Record/hostgator.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hp.com.txt" afterPath="$PROJECT_DIR$/Record/hp.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hstpnetwork.com.txt" afterPath="$PROJECT_DIR$/Record/hstpnetwork.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/huanqiu.com.txt" afterPath="$PROJECT_DIR$/Record/huanqiu.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hudong.com.txt" afterPath="$PROJECT_DIR$/Record/hudong.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/huffingtonpost.com.txt" afterPath="$PROJECT_DIR$/Record/huffingtonpost.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hulu.com.txt" afterPath="$PROJECT_DIR$/Record/hulu.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/hurriyet.com.tr.txt" afterPath="$PROJECT_DIR$/Record/hurriyet.com.tr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/icicibank.com.txt" afterPath="$PROJECT_DIR$/Record/icicibank.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ifeng.com.txt" afterPath="$PROJECT_DIR$/Record/ifeng.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ign.com.txt" afterPath="$PROJECT_DIR$/Record/ign.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ikea.com.txt" afterPath="$PROJECT_DIR$/Record/ikea.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ilividnewtab.com.txt" afterPath="$PROJECT_DIR$/Record/ilividnewtab.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/imdb.com.txt" afterPath="$PROJECT_DIR$/Record/imdb.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/imgur.com.txt" afterPath="$PROJECT_DIR$/Record/imgur.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/in.com.txt" afterPath="$PROJECT_DIR$/Record/in.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/indeed.com.txt" afterPath="$PROJECT_DIR$/Record/indeed.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/indiatimes.com.txt" afterPath="$PROJECT_DIR$/Record/indiatimes.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ink.com.txt" afterPath="$PROJECT_DIR$/Record/ink.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/instagram.com.txt" afterPath="$PROJECT_DIR$/Record/instagram.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/intoday.in.txt" afterPath="$PROJECT_DIR$/Record/intoday.in.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/iqiyi.com.txt" afterPath="$PROJECT_DIR$/Record/iqiyi.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ixxx.com.txt" afterPath="$PROJECT_DIR$/Record/ixxx.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/jabong.com.txt" afterPath="$PROJECT_DIR$/Record/jabong.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/java.com.txt" afterPath="$PROJECT_DIR$/Record/java.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/jd.com.txt" afterPath="$PROJECT_DIR$/Record/jd.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/justdial.com.txt" afterPath="$PROJECT_DIR$/Record/justdial.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kakaku.com.txt" afterPath="$PROJECT_DIR$/Record/kakaku.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kaskus.co.id.txt" afterPath="$PROJECT_DIR$/Record/kaskus.co.id.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kickass.so.txt" afterPath="$PROJECT_DIR$/Record/kickass.so.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kickstarter.com.txt" afterPath="$PROJECT_DIR$/Record/kickstarter.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kinopoisk.ru.txt" afterPath="$PROJECT_DIR$/Record/kinopoisk.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kohls.com.txt" afterPath="$PROJECT_DIR$/Record/kohls.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/kompas.com.txt" afterPath="$PROJECT_DIR$/Record/kompas.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/lady.com.txt" afterPath="$PROJECT_DIR$/Record/lady.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/leboncoin.fr.txt" afterPath="$PROJECT_DIR$/Record/leboncoin.fr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/life.com.tw.txt" afterPath="$PROJECT_DIR$/Record/life.com.tw.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/lifehacker.com.txt" afterPath="$PROJECT_DIR$/Record/lifehacker.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/lightinthebox.com.txt" afterPath="$PROJECT_DIR$/Record/lightinthebox.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/likes.com.txt" afterPath="$PROJECT_DIR$/Record/likes.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/linkedin.com.txt" afterPath="$PROJECT_DIR$/Record/linkedin.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/liputan.com.txt" afterPath="$PROJECT_DIR$/Record/liputan.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/live.com.txt" afterPath="$PROJECT_DIR$/Record/live.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/livedoor.com.txt" afterPath="$PROJECT_DIR$/Record/livedoor.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/liveinternet.ru.txt" afterPath="$PROJECT_DIR$/Record/liveinternet.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/livejasmin.com.txt" afterPath="$PROJECT_DIR$/Record/livejasmin.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/livejournal.com.txt" afterPath="$PROJECT_DIR$/Record/livejournal.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/loading-delivery.com.txt" afterPath="$PROJECT_DIR$/Record/loading-delivery.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ltn.com.tw.txt" afterPath="$PROJECT_DIR$/Record/ltn.com.tw.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/macys.com.txt" afterPath="$PROJECT_DIR$/Record/macys.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mail.ru.txt" afterPath="$PROJECT_DIR$/Record/mail.ru.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.java" afterPath="$PROJECT_DIR$/src/main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/marca.com.txt" afterPath="$PROJECT_DIR$/Record/marca.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mashable.com.txt" afterPath="$PROJECT_DIR$/Record/mashable.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mbtrx.com.txt" afterPath="$PROJECT_DIR$/Record/mbtrx.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/media.tumblr.com.txt" afterPath="$PROJECT_DIR$/Record/media.tumblr.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mediafire.com.txt" afterPath="$PROJECT_DIR$/Record/mediafire.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mediafirst.com.txt" afterPath="$PROJECT_DIR$/Record/mediafirst.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/meetup.com.txt" afterPath="$PROJECT_DIR$/Record/meetup.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mercadolivre.com.br.txt" afterPath="$PROJECT_DIR$/Record/mercadolivre.com.br.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/microsoft.com.txt" afterPath="$PROJECT_DIR$/Record/microsoft.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/microsoftonline.com.txt" afterPath="$PROJECT_DIR$/Record/microsoftonline.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/milliyet.com.tr.txt" afterPath="$PROJECT_DIR$/Record/milliyet.com.tr.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/missedSites.java" afterPath="$PROJECT_DIR$/src/missedSites.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mobile.com.txt" afterPath="$PROJECT_DIR$/Record/mobile.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/moz.com.txt" afterPath="$PROJECT_DIR$/Record/moz.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mozilla.org.txt" afterPath="$PROJECT_DIR$/Record/mozilla.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/msn.com.txt" afterPath="$PROJECT_DIR$/Record/msn.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/myntra.com.txt" afterPath="$PROJECT_DIR$/Record/myntra.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/mystart.com.txt" afterPath="$PROJECT_DIR$/Record/mystart.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/naukri.com.txt" afterPath="$PROJECT_DIR$/Record/naukri.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/naver.com.txt" afterPath="$PROJECT_DIR$/Record/naver.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/naver.jp.txt" afterPath="$PROJECT_DIR$/Record/naver.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/nba.com.txt" afterPath="$PROJECT_DIR$/Record/nba.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ndtv.com.txt" afterPath="$PROJECT_DIR$/Record/ndtv.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/netflix.com.txt" afterPath="$PROJECT_DIR$/Record/netflix.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/newegg.com.txt" afterPath="$PROJECT_DIR$/Record/newegg.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/nfl.com.txt" afterPath="$PROJECT_DIR$/Record/nfl.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/nicovideo.jp.txt" afterPath="$PROJECT_DIR$/Record/nicovideo.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/nih.gov.txt" afterPath="$PROJECT_DIR$/Record/nih.gov.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/nordstrom.com.txt" afterPath="$PROJECT_DIR$/Record/nordstrom.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/nytimes.com.txt" afterPath="$PROJECT_DIR$/Record/nytimes.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/odnoklassniki.ru.txt" afterPath="$PROJECT_DIR$/Record/odnoklassniki.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/office.com.txt" afterPath="$PROJECT_DIR$/Record/office.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ok.ru.txt" afterPath="$PROJECT_DIR$/Record/ok.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/okcupid.com.txt" afterPath="$PROJECT_DIR$/Record/okcupid.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/omiga-plus.com.txt" afterPath="$PROJECT_DIR$/Record/omiga-plus.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/onclickads.net.txt" afterPath="$PROJECT_DIR$/Record/onclickads.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/onet.pl.txt" afterPath="$PROJECT_DIR$/Record/onet.pl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/onlinesbi.com.txt" afterPath="$PROJECT_DIR$/Record/onlinesbi.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/oracle.com.txt" afterPath="$PROJECT_DIR$/Record/oracle.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/orange.fr.txt" afterPath="$PROJECT_DIR$/Record/orange.fr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/outbrain.com.txt" afterPath="$PROJECT_DIR$/Record/outbrain.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/outlook.com.txt" afterPath="$PROJECT_DIR$/Record/outlook.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/overstock.com.txt" afterPath="$PROJECT_DIR$/Record/overstock.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pandora.com.txt" afterPath="$PROJECT_DIR$/Record/pandora.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/paypal.com.txt" afterPath="$PROJECT_DIR$/Record/paypal.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pchome.net.txt" afterPath="$PROJECT_DIR$/Record/pchome.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pconline.com.cn.txt" afterPath="$PROJECT_DIR$/Record/pconline.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/people.com.cn.txt" afterPath="$PROJECT_DIR$/Record/people.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/photobucket.com.txt" afterPath="$PROJECT_DIR$/Record/photobucket.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/php.net.txt" afterPath="$PROJECT_DIR$/Record/php.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pinterest.com.txt" afterPath="$PROJECT_DIR$/Record/pinterest.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pixiv.net.txt" afterPath="$PROJECT_DIR$/Record/pixiv.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pixnet.net.txt" afterPath="$PROJECT_DIR$/Record/pixnet.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/pm.com.txt" afterPath="$PROJECT_DIR$/Record/pm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/popads.net.txt" afterPath="$PROJECT_DIR$/Record/popads.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ppomppu.co.kr.txt" afterPath="$PROJECT_DIR$/Record/ppomppu.co.kr.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/qq.com.txt" afterPath="$PROJECT_DIR$/Record/qq.com.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/query.java" afterPath="$PROJECT_DIR$/src/query.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/queryOnce.java" afterPath="$PROJECT_DIR$/src/queryOnce.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/quikr.com.txt" afterPath="$PROJECT_DIR$/Record/quikr.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/quora.com.txt" afterPath="$PROJECT_DIR$/Record/quora.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/rakuten.co.jp.txt" afterPath="$PROJECT_DIR$/Record/rakuten.co.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/rambler.ru.txt" afterPath="$PROJECT_DIR$/Record/rambler.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/rbc.ru.txt" afterPath="$PROJECT_DIR$/Record/rbc.ru.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/record.java" afterPath="$PROJECT_DIR$/src/record.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/reddit.com.txt" afterPath="$PROJECT_DIR$/Record/reddit.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/rediff.com.txt" afterPath="$PROJECT_DIR$/Record/rediff.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/redtube.com.txt" afterPath="$PROJECT_DIR$/Record/redtube.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/reference.com.txt" afterPath="$PROJECT_DIR$/Record/reference.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/reimageplus.com.txt" afterPath="$PROJECT_DIR$/Record/reimageplus.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/reuters.com.txt" afterPath="$PROJECT_DIR$/Record/reuters.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/rt.com.txt" afterPath="$PROJECT_DIR$/Record/rt.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/rutracker.org.txt" afterPath="$PROJECT_DIR$/Record/rutracker.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sabq.org.txt" afterPath="$PROJECT_DIR$/Record/sabq.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sahibinden.com.txt" afterPath="$PROJECT_DIR$/Record/sahibinden.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/salesforce.com.txt" afterPath="$PROJECT_DIR$/Record/salesforce.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/samsung.com.txt" afterPath="$PROJECT_DIR$/Record/samsung.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sberbank.ru.txt" afterPath="$PROJECT_DIR$/Record/sberbank.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/scribd.com.txt" afterPath="$PROJECT_DIR$/Record/scribd.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sears.com.txt" afterPath="$PROJECT_DIR$/Record/sears.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/secureserver.net.txt" afterPath="$PROJECT_DIR$/Record/secureserver.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sex.com.txt" afterPath="$PROJECT_DIR$/Record/sex.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/seznam.cz.txt" afterPath="$PROJECT_DIR$/Record/seznam.cz.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/shared.com.txt" afterPath="$PROJECT_DIR$/Record/shared.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/shutterstock.com.txt" afterPath="$PROJECT_DIR$/Record/shutterstock.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sina.com.cn.txt" afterPath="$PROJECT_DIR$/Record/sina.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/skype.com.txt" afterPath="$PROJECT_DIR$/Record/skype.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/slickdeals.net.txt" afterPath="$PROJECT_DIR$/Record/slickdeals.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/slideshare.net.txt" afterPath="$PROJECT_DIR$/Record/slideshare.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/smzdm.com.txt" afterPath="$PROJECT_DIR$/Record/smzdm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/so.com.txt" afterPath="$PROJECT_DIR$/Record/so.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/softonic.com.txt" afterPath="$PROJECT_DIR$/Record/softonic.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sogou.com.txt" afterPath="$PROJECT_DIR$/Record/sogou.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sohu.com.txt" afterPath="$PROJECT_DIR$/Record/sohu.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/soso.com.txt" afterPath="$PROJECT_DIR$/Record/soso.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/soundcloud.com.txt" afterPath="$PROJECT_DIR$/Record/soundcloud.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/sourceforge.net.txt" afterPath="$PROJECT_DIR$/Record/sourceforge.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/speedtest.net.txt" afterPath="$PROJECT_DIR$/Record/speedtest.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/spiegel.de.txt" afterPath="$PROJECT_DIR$/Record/spiegel.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/spotify.com.txt" afterPath="$PROJECT_DIR$/Record/spotify.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/stackexchange.com.txt" afterPath="$PROJECT_DIR$/Record/stackexchange.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/stackoverflow.com.txt" afterPath="$PROJECT_DIR$/Record/stackoverflow.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/staples.com.txt" afterPath="$PROJECT_DIR$/Record/staples.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/steamcommunity.com.txt" afterPath="$PROJECT_DIR$/Record/steamcommunity.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/steampowered.com.txt" afterPath="$PROJECT_DIR$/Record/steampowered.com.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store.java" afterPath="$PROJECT_DIR$/src/store.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/stumbleupon.com.txt" afterPath="$PROJECT_DIR$/Record/stumbleupon.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/stylene.net.txt" afterPath="$PROJECT_DIR$/Record/stylene.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/suning.com.txt" afterPath="$PROJECT_DIR$/Record/suning.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/surveymonkey.com.txt" afterPath="$PROJECT_DIR$/Record/surveymonkey.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/t-online.de.txt" afterPath="$PROJECT_DIR$/Record/t-online.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/t.co.txt" afterPath="$PROJECT_DIR$/Record/t.co.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/taboola.com.txt" afterPath="$PROJECT_DIR$/Record/taboola.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/taobao.com.txt" afterPath="$PROJECT_DIR$/Record/taobao.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/target.com.txt" afterPath="$PROJECT_DIR$/Record/target.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/taringa.net.txt" afterPath="$PROJECT_DIR$/Record/taringa.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/techcrunch.com.txt" afterPath="$PROJECT_DIR$/Record/techcrunch.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/teepr.com.txt" afterPath="$PROJECT_DIR$/Record/teepr.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/telegraph.co.uk.txt" afterPath="$PROJECT_DIR$/Record/telegraph.co.uk.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/thefreedictionary.com.txt" afterPath="$PROJECT_DIR$/Record/thefreedictionary.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/theguardian.com.txt" afterPath="$PROJECT_DIR$/Record/theguardian.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/theladbible.com.txt" afterPath="$PROJECT_DIR$/Record/theladbible.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/themeforest.net.txt" afterPath="$PROJECT_DIR$/Record/themeforest.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/thepiratebay.se.txt" afterPath="$PROJECT_DIR$/Record/thepiratebay.se.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/theverge.com.txt" afterPath="$PROJECT_DIR$/Record/theverge.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tianya.cn.txt" afterPath="$PROJECT_DIR$/Record/tianya.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/time.com.txt" afterPath="$PROJECT_DIR$/Record/time.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tistory.com.txt" afterPath="$PROJECT_DIR$/Record/tistory.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tmall.com.txt" afterPath="$PROJECT_DIR$/Record/tmall.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tmz.com.txt" afterPath="$PROJECT_DIR$/Record/tmz.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/torrentz.eu.txt" afterPath="$PROJECT_DIR$/Record/torrentz.eu.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/toysrus.com.txt" afterPath="$PROJECT_DIR$/Record/toysrus.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/trackingclick.net.txt" afterPath="$PROJECT_DIR$/Record/trackingclick.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/trello.com.txt" afterPath="$PROJECT_DIR$/Record/trello.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tripadvisor.com.txt" afterPath="$PROJECT_DIR$/Record/tripadvisor.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/trklnks.com.txt" afterPath="$PROJECT_DIR$/Record/trklnks.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/trovi.com.txt" afterPath="$PROJECT_DIR$/Record/trovi.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tube.com.txt" afterPath="$PROJECT_DIR$/Record/tube.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tubecup.com.txt" afterPath="$PROJECT_DIR$/Record/tubecup.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tudou.com.txt" afterPath="$PROJECT_DIR$/Record/tudou.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/tumblr.com.txt" afterPath="$PROJECT_DIR$/Record/tumblr.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/twimg.com.txt" afterPath="$PROJECT_DIR$/Record/twimg.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/twitch.tv.txt" afterPath="$PROJECT_DIR$/Record/twitch.tv.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/twitter.com.txt" afterPath="$PROJECT_DIR$/Record/twitter.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ucoz.ru.txt" afterPath="$PROJECT_DIR$/Record/ucoz.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/udn.com.txt" afterPath="$PROJECT_DIR$/Record/udn.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/uol.com.br.txt" afterPath="$PROJECT_DIR$/Record/uol.com.br.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/uploaded.net.txt" afterPath="$PROJECT_DIR$/Record/uploaded.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ups.com.txt" afterPath="$PROJECT_DIR$/Record/ups.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/usatoday.com.txt" afterPath="$PROJECT_DIR$/Record/usatoday.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/usps.com.txt" afterPath="$PROJECT_DIR$/Record/usps.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/varzesh.com.txt" afterPath="$PROJECT_DIR$/Record/varzesh.com.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/verizonwireless.com.txt" afterPath="$PROJECT_DIR$/Record/verizonwireless.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/vetogate.com.txt" afterPath="$PROJECT_DIR$/Record/vetogate.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/vice.com.txt" afterPath="$PROJECT_DIR$/Record/vice.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/vimeo.com.txt" afterPath="$PROJECT_DIR$/Record/vimeo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/vk.com.txt" afterPath="$PROJECT_DIR$/Record/vk.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/weather.com.txt" afterPath="$PROJECT_DIR$/Record/weather.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/web.de.txt" afterPath="$PROJECT_DIR$/Record/web.de.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/webmd.com.txt" afterPath="$PROJECT_DIR$/Record/webmd.com.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website.txt" afterPath="$PROJECT_DIR$/website.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/webssearches.com.txt" afterPath="$PROJECT_DIR$/Record/webssearches.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/weebly.com.txt" afterPath="$PROJECT_DIR$/Record/weebly.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/weibo.com.txt" afterPath="$PROJECT_DIR$/Record/weibo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wellsfargo.com.txt" afterPath="$PROJECT_DIR$/Record/wellsfargo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wikia.com.txt" afterPath="$PROJECT_DIR$/Record/wikia.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wikihow.com.txt" afterPath="$PROJECT_DIR$/Record/wikihow.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wikimedia.org.txt" afterPath="$PROJECT_DIR$/Record/wikimedia.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wikipedia.org.txt" afterPath="$PROJECT_DIR$/Record/wikipedia.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wix.com.txt" afterPath="$PROJECT_DIR$/Record/wix.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wordpress.com.txt" afterPath="$PROJECT_DIR$/Record/wordpress.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wordpress.org.txt" afterPath="$PROJECT_DIR$/Record/wordpress.org.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wordreference.com.txt" afterPath="$PROJECT_DIR$/Record/wordreference.com.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wow.com.txt" afterPath="$PROJECT_DIR$/Record/wow.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wp.pl.txt" afterPath="$PROJECT_DIR$/Record/wp.pl.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wschools.com.txt" afterPath="$PROJECT_DIR$/Record/wschools.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/wsj.com.txt" afterPath="$PROJECT_DIR$/Record/wsj.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xcar.com.cn.txt" afterPath="$PROJECT_DIR$/Record/xcar.com.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xda-developers.com.txt" afterPath="$PROJECT_DIR$/Record/xda-developers.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xhamster.com.txt" afterPath="$PROJECT_DIR$/Record/xhamster.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xinhuanet.com.txt" afterPath="$PROJECT_DIR$/Record/xinhuanet.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xnxx.com.txt" afterPath="$PROJECT_DIR$/Record/xnxx.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xuite.net.txt" afterPath="$PROJECT_DIR$/Record/xuite.net.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xvideos.com.txt" afterPath="$PROJECT_DIR$/Record/xvideos.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/xywy.com.txt" afterPath="$PROJECT_DIR$/Record/xywy.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yahoo.co.jp.txt" afterPath="$PROJECT_DIR$/Record/yahoo.co.jp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yahoo.com.txt" afterPath="$PROJECT_DIR$/Record/yahoo.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yandex.ru.txt" afterPath="$PROJECT_DIR$/Record/yandex.ru.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yandex.ua.txt" afterPath="$PROJECT_DIR$/Record/yandex.ua.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yaolan.com.txt" afterPath="$PROJECT_DIR$/Record/yaolan.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yelp.com.txt" afterPath="$PROJECT_DIR$/Record/yelp.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/yesky.com.txt" afterPath="$PROJECT_DIR$/Record/yesky.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/youku.com.txt" afterPath="$PROJECT_DIR$/Record/youku.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/youm.com.txt" afterPath="$PROJECT_DIR$/Record/youm.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/youradexchange.com.txt" afterPath="$PROJECT_DIR$/Record/youradexchange.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/youth.cn.txt" afterPath="$PROJECT_DIR$/Record/youth.cn.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/youtube.com.txt" afterPath="$PROJECT_DIR$/Record/youtube.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/zendesk.com.txt" afterPath="$PROJECT_DIR$/Record/zendesk.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/ziddu.com.txt" afterPath="$PROJECT_DIR$/Record/ziddu.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/zillow.com.txt" afterPath="$PROJECT_DIR$/Record/zillow.com.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Record/zol.com.cn.txt" afterPath="$PROJECT_DIR$/Record/zol.com.cn.txt" />
     </list>
     <ignored path="Monitor_17.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -526,7 +527,7 @@
       <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="975">
+            <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="975">
               <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
@@ -536,9 +537,14 @@
       <file leaf-file-name="recordPacket.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recordPacket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="420">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -546,8 +552,8 @@
       <file leaf-file-name="MyTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -556,7 +562,7 @@
       <file leaf-file-name="queryOnce.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/queryOnce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="690">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
               <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
               <folding />
             </state>
@@ -566,19 +572,21 @@
       <file leaf-file-name="query.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/query.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="1335">
+            <state vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="1335">
               <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="store.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/store.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5741379" vertical-offset="897" max-vertical-offset="1500">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1230" max-vertical-offset="1500">
               <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -586,9 +594,17 @@
       <file leaf-file-name="sites.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sites.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="930">
-              <caret line="52" column="26" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="930">
+              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1129#1130#0" expanded="false" />
+                <element signature="e#1156#1157#0" expanded="false" />
+                <element signature="e#1198#1199#0" expanded="false" />
+                <element signature="e#1230#1231#0" expanded="false" />
+                <element signature="e#1577#1578#0" expanded="false" />
+                <element signature="e#1611#1612#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -596,18 +612,58 @@
       <file leaf-file-name="record.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/record.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1350">
+            <state vertical-scroll-proportion="0.0" vertical-offset="488" max-vertical-offset="1350">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1000#1001#0" expanded="false" />
+                <element signature="e#1037#1038#0" expanded="false" />
+                <element signature="e#1097#1098#0" expanded="false" />
+                <element signature="e#1149#1150#0" expanded="false" />
+                <element signature="e#1184#1185#0" expanded="false" />
+                <element signature="e#1215#1216#0" expanded="false" />
+                <element signature="e#1263#1264#0" expanded="false" />
+                <element signature="e#1298#1299#0" expanded="false" />
+                <element signature="e#1336#1337#0" expanded="false" />
+                <element signature="e#1370#1371#0" expanded="false" />
+                <element signature="e#1424#1425#0" expanded="false" />
+                <element signature="e#1470#1471#0" expanded="false" />
+                <element signature="e#1506#1507#0" expanded="false" />
+                <element signature="e#1538#1539#0" expanded="false" />
+                <element signature="e#1588#1589#0" expanded="false" />
+                <element signature="e#1630#1631#0" expanded="false" />
+                <element signature="e#1667#1668#0" expanded="false" />
+                <element signature="e#1700#1701#0" expanded="false" />
+                <element signature="e#1752#1753#0" expanded="false" />
+                <element signature="e#1796#1797#0" expanded="false" />
+                <element signature="e#1833#1834#0" expanded="false" />
+                <element signature="e#1866#1867#0" expanded="false" />
+                <element signature="e#1918#1919#0" expanded="false" />
+                <element signature="e#1962#1963#0" expanded="false" />
+                <element signature="e#2215#2216#0" expanded="false" />
+                <element signature="e#2251#2252#0" expanded="false" />
+                <element signature="e#2412#2413#0" expanded="false" />
+                <element signature="e#2441#2442#0" expanded="false" />
+                <element signature="e#2486#2487#0" expanded="false" />
+                <element signature="e#2533#2534#0" expanded="false" />
+                <element signature="e#2562#2563#0" expanded="false" />
+                <element signature="e#2589#2590#0" expanded="false" />
+                <element signature="e#2627#2628#0" expanded="false" />
+                <element signature="e#2659#2660#0" expanded="false" />
+                <element signature="e#2692#2693#0" expanded="false" />
+                <element signature="e#2721#2722#0" expanded="false" />
+                <element signature="e#2765#2766#0" expanded="false" />
+                <element signature="e#2801#2802#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SerialClient.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SerialClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SerialClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="840">
-              <caret line="40" column="11" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.15697674" vertical-offset="75" max-vertical-offset="960">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -618,9 +674,12 @@
       <file leaf-file-name="missedSites.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/missedSites.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="855">
+            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="855">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#160#161#0" expanded="false" />
+                <element signature="e#194#195#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -637,8 +696,8 @@
         <option value="$PROJECT_DIR$/src/query.java" />
         <option value="$PROJECT_DIR$/src/queryOnce.java" />
         <option value="$PROJECT_DIR$/src/record.java" />
-        <option value="$PROJECT_DIR$/src/recordPacket.java" />
         <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/recordPacket.java" />
         <option value="$PROJECT_DIR$/src/SerialClient.java" />
       </list>
     </option>
@@ -647,9 +706,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="171" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="726" />
+    <option name="width" value="1227" />
+    <option name="height" value="1006" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -676,6 +736,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -710,8 +772,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -744,6 +804,23 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Monitor_17" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SerialClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SerialClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -996,12 +1073,14 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SerialClient" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Application.main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SerialClient" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1047,15 +1126,18 @@
       <workItem from="1424136079234" duration="853000" />
       <workItem from="1424146307399" duration="336000" />
       <workItem from="1424826765137" duration="2119000" />
-      <workItem from="1424838758050" duration="211000" />
+      <workItem from="1424838758050" duration="1203000" />
+      <workItem from="1424843944496" duration="28000" />
+      <workItem from="1424844037214" duration="204000" />
+      <workItem from="1425063092620" duration="4811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42352000" />
+    <option name="totallyTimeSpent" value="48387000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
+    <frame x="171" y="23" width="1227" height="1006" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1066,24 +1148,24 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25121164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32730263" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21097046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3265766" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1116,7 +1198,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="855">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1163,7 +1248,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="1410">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1171,7 +1258,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="930">
           <caret line="52" column="26" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1156#1157#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1577#1578#0" expanded="false" />
+            <element signature="e#1611#1612#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1179,7 +1274,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1000#1001#0" expanded="false" />
+            <element signature="e#1037#1038#0" expanded="false" />
+            <element signature="e#1097#1098#0" expanded="false" />
+            <element signature="e#1149#1150#0" expanded="false" />
+            <element signature="e#1184#1185#0" expanded="false" />
+            <element signature="e#1215#1216#0" expanded="false" />
+            <element signature="e#1263#1264#0" expanded="false" />
+            <element signature="e#1298#1299#0" expanded="false" />
+            <element signature="e#1336#1337#0" expanded="false" />
+            <element signature="e#1370#1371#0" expanded="false" />
+            <element signature="e#1424#1425#0" expanded="false" />
+            <element signature="e#1470#1471#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1538#1539#0" expanded="false" />
+            <element signature="e#1588#1589#0" expanded="false" />
+            <element signature="e#1630#1631#0" expanded="false" />
+            <element signature="e#1667#1668#0" expanded="false" />
+            <element signature="e#1700#1701#0" expanded="false" />
+            <element signature="e#1752#1753#0" expanded="false" />
+            <element signature="e#1796#1797#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1866#1867#0" expanded="false" />
+            <element signature="e#1918#1919#0" expanded="false" />
+            <element signature="e#1962#1963#0" expanded="false" />
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2251#2252#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2533#2534#0" expanded="false" />
+            <element signature="e#2562#2563#0" expanded="false" />
+            <element signature="e#2589#2590#0" expanded="false" />
+            <element signature="e#2627#2628#0" expanded="false" />
+            <element signature="e#2659#2660#0" expanded="false" />
+            <element signature="e#2692#2693#0" expanded="false" />
+            <element signature="e#2721#2722#0" expanded="false" />
+            <element signature="e#2765#2766#0" expanded="false" />
+            <element signature="e#2801#2802#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1197,7 +1332,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="855">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1244,7 +1382,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1410">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1252,7 +1392,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="930">
           <caret line="52" column="26" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1156#1157#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1577#1578#0" expanded="false" />
+            <element signature="e#1611#1612#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1260,7 +1408,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="555">
           <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1000#1001#0" expanded="false" />
+            <element signature="e#1037#1038#0" expanded="false" />
+            <element signature="e#1097#1098#0" expanded="false" />
+            <element signature="e#1149#1150#0" expanded="false" />
+            <element signature="e#1184#1185#0" expanded="false" />
+            <element signature="e#1215#1216#0" expanded="false" />
+            <element signature="e#1263#1264#0" expanded="false" />
+            <element signature="e#1298#1299#0" expanded="false" />
+            <element signature="e#1336#1337#0" expanded="false" />
+            <element signature="e#1370#1371#0" expanded="false" />
+            <element signature="e#1424#1425#0" expanded="false" />
+            <element signature="e#1470#1471#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1538#1539#0" expanded="false" />
+            <element signature="e#1588#1589#0" expanded="false" />
+            <element signature="e#1630#1631#0" expanded="false" />
+            <element signature="e#1667#1668#0" expanded="false" />
+            <element signature="e#1700#1701#0" expanded="false" />
+            <element signature="e#1752#1753#0" expanded="false" />
+            <element signature="e#1796#1797#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1866#1867#0" expanded="false" />
+            <element signature="e#1918#1919#0" expanded="false" />
+            <element signature="e#1962#1963#0" expanded="false" />
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2251#2252#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2533#2534#0" expanded="false" />
+            <element signature="e#2562#2563#0" expanded="false" />
+            <element signature="e#2589#2590#0" expanded="false" />
+            <element signature="e#2627#2628#0" expanded="false" />
+            <element signature="e#2659#2660#0" expanded="false" />
+            <element signature="e#2692#2693#0" expanded="false" />
+            <element signature="e#2721#2722#0" expanded="false" />
+            <element signature="e#2765#2766#0" expanded="false" />
+            <element signature="e#2801#2802#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1278,7 +1466,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="855">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1325,7 +1516,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1410">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1333,7 +1526,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="930">
           <caret line="52" column="26" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1156#1157#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1577#1578#0" expanded="false" />
+            <element signature="e#1611#1612#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1341,7 +1542,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="555">
           <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1000#1001#0" expanded="false" />
+            <element signature="e#1037#1038#0" expanded="false" />
+            <element signature="e#1097#1098#0" expanded="false" />
+            <element signature="e#1149#1150#0" expanded="false" />
+            <element signature="e#1184#1185#0" expanded="false" />
+            <element signature="e#1215#1216#0" expanded="false" />
+            <element signature="e#1263#1264#0" expanded="false" />
+            <element signature="e#1298#1299#0" expanded="false" />
+            <element signature="e#1336#1337#0" expanded="false" />
+            <element signature="e#1370#1371#0" expanded="false" />
+            <element signature="e#1424#1425#0" expanded="false" />
+            <element signature="e#1470#1471#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1538#1539#0" expanded="false" />
+            <element signature="e#1588#1589#0" expanded="false" />
+            <element signature="e#1630#1631#0" expanded="false" />
+            <element signature="e#1667#1668#0" expanded="false" />
+            <element signature="e#1700#1701#0" expanded="false" />
+            <element signature="e#1752#1753#0" expanded="false" />
+            <element signature="e#1796#1797#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1866#1867#0" expanded="false" />
+            <element signature="e#1918#1919#0" expanded="false" />
+            <element signature="e#1962#1963#0" expanded="false" />
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2251#2252#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2533#2534#0" expanded="false" />
+            <element signature="e#2562#2563#0" expanded="false" />
+            <element signature="e#2589#2590#0" expanded="false" />
+            <element signature="e#2627#2628#0" expanded="false" />
+            <element signature="e#2659#2660#0" expanded="false" />
+            <element signature="e#2692#2693#0" expanded="false" />
+            <element signature="e#2721#2722#0" expanded="false" />
+            <element signature="e#2765#2766#0" expanded="false" />
+            <element signature="e#2801#2802#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1359,7 +1600,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="855">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1406,7 +1650,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="960">
           <caret line="52" column="26" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1156#1157#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1577#1578#0" expanded="false" />
+            <element signature="e#1611#1612#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1414,7 +1666,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="855">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1433,30 +1688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="960">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/missedSites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/query.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="1335">
-          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/util/Timer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33170733" vertical-offset="4184" max-vertical-offset="10230">
@@ -1464,18 +1695,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8" max-vertical-offset="930">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1156#1157#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+            <element signature="e#1230#1231#0" expanded="false" />
+            <element signature="e#1577#1578#0" expanded="false" />
+            <element signature="e#1611#1612#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1350">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1000#1001#0" expanded="false" />
+            <element signature="e#1037#1038#0" expanded="false" />
+            <element signature="e#1097#1098#0" expanded="false" />
+            <element signature="e#1149#1150#0" expanded="false" />
+            <element signature="e#1184#1185#0" expanded="false" />
+            <element signature="e#1215#1216#0" expanded="false" />
+            <element signature="e#1263#1264#0" expanded="false" />
+            <element signature="e#1298#1299#0" expanded="false" />
+            <element signature="e#1336#1337#0" expanded="false" />
+            <element signature="e#1370#1371#0" expanded="false" />
+            <element signature="e#1424#1425#0" expanded="false" />
+            <element signature="e#1470#1471#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1538#1539#0" expanded="false" />
+            <element signature="e#1588#1589#0" expanded="false" />
+            <element signature="e#1630#1631#0" expanded="false" />
+            <element signature="e#1667#1668#0" expanded="false" />
+            <element signature="e#1700#1701#0" expanded="false" />
+            <element signature="e#1752#1753#0" expanded="false" />
+            <element signature="e#1796#1797#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1866#1867#0" expanded="false" />
+            <element signature="e#1918#1919#0" expanded="false" />
+            <element signature="e#1962#1963#0" expanded="false" />
+            <element signature="e#2215#2216#0" expanded="false" />
+            <element signature="e#2251#2252#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2533#2534#0" expanded="false" />
+            <element signature="e#2562#2563#0" expanded="false" />
+            <element signature="e#2589#2590#0" expanded="false" />
+            <element signature="e#2627#2628#0" expanded="false" />
+            <element signature="e#2659#2660#0" expanded="false" />
+            <element signature="e#2692#2693#0" expanded="false" />
+            <element signature="e#2721#2722#0" expanded="false" />
+            <element signature="e#2765#2766#0" expanded="false" />
+            <element signature="e#2801#2802#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="897" max-vertical-offset="1500">
+          <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/missedSites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#160#161#0" expanded="false" />
+            <element signature="e#194#195#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1488,37 +1796,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recordPacket.java">
+    <entry file="file://$PROJECT_DIR$/src/query.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="1335">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="975">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SerialClient.java">
+    <entry file="file://$PROJECT_DIR$/src/recordPacket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="840">
-          <caret line="40" column="11" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store.java">
+    <entry file="file://$PROJECT_DIR$/src/SerialClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5741379" vertical-offset="897" max-vertical-offset="1500">
-          <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
-          <folding />
+        <state vertical-scroll-proportion="0.15697674" vertical-offset="75" max-vertical-offset="960">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

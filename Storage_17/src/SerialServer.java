@@ -3,14 +3,8 @@
  */
 import java.net.*;
 import java.io.*;
-import java.nio.channels.SelectionKey;
-import java.nio.channels.Selector;
-import java.nio.channels.ServerSocketChannel;
-import java.nio.channels.SocketChannel;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.Set;
 
 public class SerialServer extends Thread{
     protected static boolean serverContinue = true;
@@ -19,7 +13,7 @@ public class SerialServer extends Thread{
         ServerSocket serverSocket = null;
         if(args.length==0) {
             try {
-                serverSocket = new ServerSocket(10007);
+                serverSocket = new ServerSocket(10008);
                 try {
                     while (serverContinue) {
                         serverSocket.setSoTimeout(60000);
@@ -88,11 +82,21 @@ public class SerialServer extends Thread{
                 String query = (String)object;
                 //System.out.println(query);
                 System.out.println("Server received query "+ query + " from Client");
-                ArrayList<String> IP_list = store.get_valid_ip(query);
-                for(String s: IP_list){
+                String[] parts = query.split(" ");
+                ArrayList<String> result = new ArrayList<String>();
+                if(parts.length == 5){
+                    result = store.get_valid_ip(query);
+                }
+                if(parts.length == 4){
+                    result = store.whocansee(query);
+                }
+                if(parts.length == 2){
+                    result = store.showWebsites();
+                }
+                for(String s: result){
                     System.out.println(s);
                 }
-                out.writeObject(IP_list);
+                out.writeObject(result);
                 out.flush();
                 out.close();
                 in.close();
@@ -101,6 +105,9 @@ public class SerialServer extends Thread{
                 packet = (recordPacket)object;
                 System.out.println("Server received point: " + list + " from Client");
                 list = packet.getList();
+                if(!store.ClientIPexist(packet.getIP(),packet.getLocation())){
+                store.storeClientIPInSQL(packet.getIP(),packet.getLocation());
+                }
                 store.storeRecordInMySQL(list, packet.getLocation());
                 out.flush();
                 out.close();

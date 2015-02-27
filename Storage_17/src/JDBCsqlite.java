@@ -17,6 +17,43 @@ public class JDBCsqlite {
         this.conn = connectionDB();
     }
 
+    public ArrayList<String> showWebsites() throws SQLException{
+        ArrayList<String> res = new ArrayList<String>();
+        try{
+            pstmt = conn.prepareStatement("SELECT Server FROM Website");
+            resultSet = pstmt.executeQuery();
+        }catch (SQLException e){
+            e.printStackTrace();
+        }
+        if(resultSet.next()){
+            res.add(resultSet.getString(1));
+            while(resultSet.next()){
+                res.add(resultSet.getString(1));
+            }
+            return  res;
+        }else{
+            return null;}
+    }
+
+    public ArrayList<String> whocansee(String ip) throws SQLException{
+        ArrayList<String> res = new ArrayList<String>();
+        try{
+            pstmt = conn.prepareStatement("SELECT DISTINCT Location FROM IPrecord WHERE IPrecord.IP = ?");
+            pstmt.setString(1,ip);
+            resultSet = pstmt.executeQuery();
+        }catch (SQLException e){
+            e.printStackTrace();
+        }
+        if(resultSet.next()){
+            res.add(resultSet.getString(1));
+            while(resultSet.next()){
+                res.add(resultSet.getString(1));
+            }
+            return  res;
+        }else{
+            return null;}
+    }
+
     public ArrayList<String> get_valid_ip_query(JDBCsqlite db, String server, Date t1, Date t2) throws SQLException{
         long timestamp1 = t1.getTime();
         long timestamp2 = t2.getTime();
@@ -40,6 +77,20 @@ public class JDBCsqlite {
             return  res;
         }else{
             return null;}
+    }
+
+    public void storeClientIPInSQL(JDBCsqlite db, String ip, String location) throws  SQLException{
+        try{
+            pstmt = conn.prepareStatement("INSERT INTO Client(Location,IP) VALUES(?,?)");
+            pstmt.setString(1,location);
+            pstmt.setString(2,ip);
+            this.count=pstmt.executeUpdate();
+        }catch (SQLException e){
+            e.printStackTrace();
+        }
+        if(count>0){
+            System.out.println("Insert success");
+        }
     }
 
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
@@ -79,7 +130,7 @@ public class JDBCsqlite {
             } catch (SQLException e) {
                 isColes=false;
                 e.printStackTrace();
-                System.out.println("关闭结果集发生错误");
+                System.out.println("Wrong in closing resultSet");
             }
         }
         if(pstmt!=null){
@@ -90,7 +141,7 @@ public class JDBCsqlite {
             } catch (SQLException e) {
                 isColes=false;
                 e.printStackTrace();
-                System.out.println("关闭pstmt发生异常");
+                System.out.println("Wrong in closing pstmt");
             }
         }
         if(conn!=null){
@@ -101,15 +152,47 @@ public class JDBCsqlite {
             }catch (Exception e) {
                 isColes=false;
                 e.printStackTrace();
-                System.out.println("关闭conn发生异常");
+                System.out.println("Wrong in closing conn");
             }
         }
         return isColes;
     }
 
+    public boolean IPshowAgain(String ip, String server, String location, Date now) throws SQLException{
+        long timestamp1 = now.getTime();
+        try{
+            pstmt = conn.prepareStatement("SELECT * FROM IPrecord WHERE IPrecord.IP = ? AND IPrecord.Location=? AND (? - IPrecord.End)/1000 > 86400");
+            pstmt.setString(1,ip);
+            pstmt.setString(2,location);
+            pstmt.setLong(3, timestamp1);
+            resultSet = pstmt.executeQuery();
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+        if(resultSet.next()){
+            return true;
+        }else{
+            return false;}
+    }
+
+    public boolean ClientIPexist(String ip, String location) throws SQLException{
+        try{
+            pstmt = conn.prepareStatement("SELECT * FROM Client WHERE Client.IP = ? AND Client.Location=?  ");
+            pstmt.setString(1,ip);
+            pstmt.setString(2,location);
+            resultSet = pstmt.executeQuery();
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+        if(resultSet.next()){
+            return true;
+        }else{
+            return false;}
+    }
+
     public boolean IPexistQuery(String ip, String server,String location) throws SQLException{
         try{
-            pstmt = conn.prepareStatement("SELECT * FROM IPrecord WHERE IP = ? AND Location=?");
+            pstmt = conn.prepareStatement("SELECT * FROM IPrecord WHERE IPrecord.IP = ? AND IPrecord.Location=?");
             pstmt.setString(1,ip);
             pstmt.setString(2,location);
             resultSet = pstmt.executeQuery();
@@ -170,7 +253,7 @@ public class JDBCsqlite {
             this.count=pstmt.executeUpdate();
         } catch (SQLException e) {
             e.printStackTrace();
-            System.out.println("执行更新出错了");
+            System.out.println("Wrong in update");
         }
         if(count > 1){
             System.out.println("Insert success");

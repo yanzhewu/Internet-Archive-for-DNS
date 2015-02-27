@@ -8,6 +8,18 @@ import java.util.ArrayList;
  */
 public class main {
     public static void main(String[] args) {
+        if(args.length == 0){
+            System.out.println("Usage: ");
+            System.out.println("1. website start_date start_time end_date end_time");
+            System.out.println("   Show valid IP addresses of website from start_datetime to end_datetime.");
+            System.out.println("   Example: google.com 2015-02-16 19:49:08 2015-02-16 19:49:08");
+            System.out.println("2. show monitored");
+            System.out.println("   Show all the websites which are monitored.");
+            System.out.println("3. who can see IP");
+            System.out.println("   Show clients which can see IP");
+            System.out.println("   Example: who can see 216.58.216.206");
+        }
+        else{
         String query = "";
         for(int i=0;i<args.length-1;i++){
             query = query + args[i];
@@ -19,7 +31,7 @@ public class main {
         send(query);
         }catch (IOException e){
             e.printStackTrace();
-        }
+        }}
     }
 
     public static void send(String query) throws IOException {
@@ -29,9 +41,9 @@ public class main {
         ObjectInputStream in = null;
         try {
             // echoSocket = new Socket("taranis", 7);
-            echoSocket = new Socket("127.0.0.1", 10007);
+            //echoSocket = new Socket("127.0.0.1", 10007);
 
-            //echoSocket = new Socket("128.135.164.171", 10007);
+            echoSocket = new Socket("128.135.164.171", 10008);
             out = new ObjectOutputStream(echoSocket.getOutputStream());
             in = new ObjectInputStream(echoSocket.getInputStream());
 

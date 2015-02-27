@@ -7,6 +7,17 @@ import java.util.ArrayList;
 public class recordPacket implements Serializable{
     private ArrayList<record> list;
     private String location;
+    private String IP;
+
+    public recordPacket(ArrayList<record> list, String location, String IP) {
+        this.list = list;
+        this.location = location;
+        this.IP = IP;
+    }
+
+    public String getIP() {
+        return IP;
+    }
 
     public recordPacket(ArrayList<record> list, String location) {
         this.list = list;

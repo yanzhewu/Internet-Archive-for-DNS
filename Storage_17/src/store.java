@@ -1,3 +1,4 @@
+import org.sqlite.JDBC;
 import org.xbill.DNS.Message;
 
 import javax.swing.text.DateFormatter;
@@ -34,6 +35,34 @@ public class store {
     private PreparedStatement pstmt = null;
     private static final String PATTERN = "^(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.){3}([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
 
+    public static void storeClientIPInSQL(String ip, String location) throws SQLException{
+        JDBCsqlite db = new JDBCsqlite();
+        storeClientIPInSQL(db,ip,location);
+        db.coles();
+    }
+
+    public static ArrayList<String> showWebsites() throws SQLException{
+        JDBCsqlite db = new JDBCsqlite();
+        ArrayList<String> res = new ArrayList<String>();
+        res = showWebsites(db);
+        return res;
+    }
+
+    public static ArrayList<String> showWebsites(JDBCsqlite db) throws SQLException{
+        return db.showWebsites();
+    }
+
+    //query consists of who can see ip
+    public static ArrayList<String> whocansee(String query) throws SQLException{
+        JDBCsqlite db = new JDBCsqlite();
+        ArrayList<String> res =new ArrayList<String>();
+        String[] parts = query.split(" ");
+        String ip = parts[3];
+        res = whocansee(db,ip);
+        return res;
+    }
+
+
     //query consists of domain+t1+t2 time should be like: 2015-02-24 18:18:54
     public static ArrayList<String> get_valid_ip(String query) throws SQLException{
         JDBCsqlite db = new JDBCsqlite();
@@ -53,6 +82,13 @@ public class store {
         return res;
     }
 
+    public static boolean ClientIPexist(String ip, String location) throws SQLException{
+        JDBCsqlite db = new JDBCsqlite();
+        boolean res = ClientIPexist(db,ip,location);
+        db.coles();
+        return res;
+    }
+
     public static void storeRecordInMySQL(ArrayList<record> list, String location) throws SQLException{
         //JDBCconnection db = new JDBCconnection();
         JDBCsqlite db = new JDBCsqlite();
@@ -60,12 +96,17 @@ public class store {
             ArrayList<String> IP_list = getARecordList(record);
             for(String ip:IP_list){
                 if(validate(ip)){
-                System.out.println(ip);
+                    System.out.println(ip);
+                    //InsertIPrecord(db, ip, record.getDate(), record.getDate(), record.getServer(), location);
                 if(!IPexist(db,ip, record.getServer(),location)){
                     InsertIPrecord(db, ip, record.getDate(), record.getDate(), record.getServer(), location);
                 }
                 else{
-                    UpdateEndTime(db, ip, record.getDate(), record.getServer(),location);
+                    if(IPshowAgain(db,ip,record.getServer(),location,record.getDate())){
+                        InsertIPrecord(db, ip, record.getDate(), record.getDate(), record.getServer(), location);
+                    }
+                    else{
+                    UpdateEndTime(db, ip, record.getDate(), record.getServer(),location);}
                 }
                 }
             }
@@ -73,10 +114,27 @@ public class store {
         db.coles();
     }
 
+    public static boolean IPshowAgain(JDBCsqlite db, String ip, String server,String location,Date now) throws SQLException{
+        return db.IPshowAgain(ip,server,location,now);
+    }
+
+    public static boolean ClientIPexist(JDBCsqlite db, String ip, String location) throws SQLException{
+        return db.ClientIPexist(ip,location);
+    }
+
     public static boolean validate(String ip){
         Pattern pattern = Pattern.compile(PATTERN);
         Matcher matcher = pattern.matcher(ip);
         return matcher.matches();
+    }
+
+    public static ArrayList<String> whocansee(JDBCsqlite db, String ip) throws SQLException{
+        return db.whocansee(ip);
+    }
+
+
+    public static void storeClientIPInSQL(JDBCsqlite db, String ip, String location) throws SQLException{
+        db.storeClientIPInSQL(db,ip,location);
     }
 
     public static ArrayList<String> get_valid_ip(JDBCsqlite db, String server, Date date1, Date date2) throws SQLException{
