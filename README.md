@@ -72,7 +72,7 @@ Client can get answers from server remotely.
    5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure
      
 ##Links  
-[My hosted twitter like web application](52.8.114.250:3000)
+[52.8.114.250:3000]
 [GitHub Profile](https://github.com/yanzhewu)
 [Linked Profile](https://www.linkedin.com/in/yanzhewu)
 
