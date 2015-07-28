@@ -63,24 +63,24 @@ Client can get answers from server remotely.
 3. Why my own DNS packet object  
    I need a class which implements serializable to be passed through TCP connection.  
    
-4. Why SQLite
+4. Why SQLite  
    At the beginning, I used MySQL and tested the server on my own laptop, but when I tried to deploy it on the university linux machine, I found I do not have the account and permission to MySQL service. So I changed it to SQLite, it told me that the design must take the test environment into account.  
 
 5. Next Steps  
    5.1 Show IP addresses for websites on map to analyze the load balancing behavior of websites  
    5.2 Modified DNS resolver to avoid DNS cache poisoning  
-   5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure
+   5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure  
      
 ##Links  
-[52.8.114.250:3000]
-[GitHub Profile](https://github.com/yanzhewu)
-[Linked Profile](https://www.linkedin.com/in/yanzhewu)
+<a href="52.8.114.250:3000" target="_blank">My Web App</a>  
+[GitHub Profile](https://github.com/yanzhewu)  
+[Linked Profile](https://www.linkedin.com/in/yanzhewu)  
 
 ##Result and Analysis of Output
 
 1. Number of IPs per domain  
    ![alt tag](https://github.com/yanzhewu/Internet-Archive-for-DNS/blob/master/Images/8.png)  
-
+  
 2. Number of IPs per domain CDF  
    ![alt tag](https://github.com/yanzhewu/Internet-Archive-for-DNS/blob/master/Images/1.png)  
    
