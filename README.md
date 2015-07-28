@@ -26,16 +26,16 @@ My task consists of 3 parts:
  ![alt tag](https://github.com/yanzhewu/Internet-Archive-for-DNS/blob/master/Images/SequenceDiagramStorage.png)  
  
 2.Detailed Design  
-  2.1 Monitor  
+  －2.1 Monitor  
       Use [dnsjava](http://www.dnsjava.org/) to query target websites which are [Alexa top 500](http://www.alexa.com/topsites)  
       Maintain a work queue which collaborates with multiple worker threads  
       Handle errors caused by query failures and retry them  
       Pack and send data collected to centralized server through TCP  
-  2.2 Centralized Server  
+  －2.2 Centralized Server  
       Keep accepting data from many Monitors  
       Unpack, label and store data in SQLite  
       Accept requests from clients, query in database and compute answers  
-  2.3 Client  
+  －2.3 Client  
       Send requests to server through TCP  
       Usage Examples:  
           Show Valid IPs of website during Time Point 1 to Time Point 2  
@@ -57,8 +57,8 @@ Client can get answers from server remotely.
 
 2. Why multiple thread with work queue  
    There are 2 reasons for it.  
-   2.1 The queries for DNS records may time out for many reasons, using only one thread will result in single point failure. Once a website times out, the program will crash.  
-   2.2 Querying in parallel is much faster than querying websites one by one.(My experiment: time for thousands of websites reduce from more than 5 minutes to less than 1 second)  
+   －2.1 The queries for DNS records may time out for many reasons, using only one thread will result in single point failure. Once a website times out, the program will crash.  
+   －2.2 Querying in parallel is much faster than querying websites one by one.(My experiment: time for thousands of websites reduce from more than 5 minutes to less than 1 second)  
 
 3. Why my own DNS packet object  
    I need a class which implements serializable to be passed through TCP connection.  
@@ -67,19 +67,19 @@ Client can get answers from server remotely.
    At the beginning, I used MySQL and tested the server on my own laptop, but when I tried to deploy it on the university linux machine, I found I do not have the account and permission to MySQL service. So I changed it to SQLite, it told me that the design must take the test environment into account.  
 
 5. Next Steps  
-   5.1 Show IP addresses for websites on map to analyze the load balancing behavior of websites  
-   5.2 Modified DNS resolver to avoid DNS cache poisoning  
-   5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure  
+   －5.1 Show IP addresses for websites on map to analyze the load balancing behavior of websites  
+   －5.2 Modified DNS resolver to avoid DNS cache poisoning  
+   －5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure  
      
 ##Links  
-My hosted twitter like web app:  
-public url: 52.8.114.250:3000  
-Login :   Email:    yanzhewu@uchicago.edu  
-          Password: yanzhewu  
-       or Sign up with your own preferences  
+－My hosted twitter like web app:  
+  public url: 52.8.114.250:3000  
+  Login :   Email:    yanzhewu@uchicago.edu  
+            Password: yanzhewu  
+         or Sign up with your own preferences  
 [Source Code Link](https://github.com/yanzhewu/final)  
-[GitHub Profile](https://github.com/yanzhewu)  
-[Linked Profile](https://www.linkedin.com/in/yanzhewu)  
+－[GitHub Profile](https://github.com/yanzhewu)  
+－[Linked Profile](https://www.linkedin.com/in/yanzhewu)  
 
 ##Result and Analysis of Output
 
