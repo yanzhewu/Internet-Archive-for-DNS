@@ -25,7 +25,7 @@ My task consists of 3 parts:
 1. High Level Collaboration  
  ![alt tag](https://github.com/yanzhewu/Internet-Archive-for-DNS/blob/master/Images/SequenceDiagramStorage.png)  
  
-2.  
+2.Detailed Design  
   2.1 Monitor  
       Use [dnsjava](http://www.dnsjava.org/) to query target websites which are [Alexa top 500](http://www.alexa.com/topsites)  
       Maintain a work queue which collaborates with multiple worker threads  
@@ -72,7 +72,12 @@ Client can get answers from server remotely.
    5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure  
      
 ##Links  
-<a href="52.8.114.250:3000" target="_blank">My Web App</a>  
+My hosted twitter like web app:  
+public url: 52.8.114.250:3000  
+Login :   Email:    yanzhewu@uchicago.edu  
+          Password: yanzhewu  
+       or Sign up with your own preferences  
+[Source Code Link](https://github.com/yanzhewu/final)  
 [GitHub Profile](https://github.com/yanzhewu)  
 [Linked Profile](https://www.linkedin.com/in/yanzhewu)  
 
