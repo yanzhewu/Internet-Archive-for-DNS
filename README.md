@@ -22,10 +22,10 @@ My task consists of 3 parts:
 
 ##System Design
 
-###1. High Level Collaboration  
+###High Level Collaboration  
  ![alt tag](https://github.com/yanzhewu/Internet-Archive-for-DNS/blob/master/Images/SequenceDiagramStorage.png)  
  
-###2.Detailed Design  
+###Detailed Design  
     2.1 Monitor  
       Use [dnsjava](http://www.dnsjava.org/) to query target websites which are [Alexa top 500](http://www.alexa.com/topsites)  
       Maintain a work queue which collaborates with multiple worker threads  
