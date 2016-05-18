@@ -73,7 +73,7 @@ Client can get answers from server remotely.
      
 ##Links  
 1. [GitHub Profile](https://github.com/yanzhewu)  
-2. [Linked Profile](https://www.linkedin.com/in/yanzhewu)  
+2. [LinkedIn Profile](https://www.linkedin.com/in/yanzhewu)  
 
 ##Result and Analysis of Output
 
