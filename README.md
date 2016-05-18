@@ -72,14 +72,8 @@ Client can get answers from server remotely.
     5.3 Web browser extension which gives users a choice to go back to previous IP addresses and avoid transient DNS failure  
      
 ##Links  
-1. My hosted twitter like web app:  
-    public url: 52.8.114.250:3000  
-    Login :   Email:    yanzhewu@uchicago.edu  
-              Password: yanzhewu  
-           or Sign up with your own preferences  
-  [Source Code Link](https://github.com/yanzhewu/final)  
-2. [GitHub Profile](https://github.com/yanzhewu)  
-3. [Linked Profile](https://www.linkedin.com/in/yanzhewu)  
+1. [GitHub Profile](https://github.com/yanzhewu)  
+2. [Linked Profile](https://www.linkedin.com/in/yanzhewu)  
 
 ##Result and Analysis of Output
 
